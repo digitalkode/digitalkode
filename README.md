@@ -6,7 +6,7 @@ Digitalkode's website build with HUGO.
 
 ```bash
 # Clone Repository
-git clone --recurse-submodules https://github.com/digitalkode/digitalkode.git digitalkode-hugo
+git clone --recurse-submodules https://github.com/digitalkode/digitalkode.git
 
 # Hugo Server
 hugo server
