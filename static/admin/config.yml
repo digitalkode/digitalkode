@@ -2,7 +2,9 @@ backend:
   name: github
   repo: digitalkode/digitalkode
   branch: main # Branch to update (optional; defaults to master)
-  base_url: https://www.digitalkode.com/netlify-login
+  base_url: https://www.digitalkode.com
+  auth_endpoint: netlify-login/auth
+  site_domain: https://www.digitalkode.com
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
