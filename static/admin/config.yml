@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: digitalkode/digitalkode
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+site_url: https://www.digitalkode.com
+
+collections:
+  - name: blog
+    label: "Blog"
+    identifier_field: blog
+    folder: "content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
