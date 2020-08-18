@@ -10,7 +10,7 @@ copyright = "© {year}"
 disqusShortname = "digitalkode"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+googleAnalytics = "UA-105587514-4" 
 
 # Optional params
 [params]
