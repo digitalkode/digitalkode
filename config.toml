@@ -63,3 +63,5 @@ googleAnalytics = "UA-105587514-4"
   name = "blog"
   title = "Blog"
   url = "/blog"
+
+enableEmoji = true
