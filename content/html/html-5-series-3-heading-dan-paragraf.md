@@ -18,11 +18,11 @@ Oke, lgsg gas to the point : HTML itu punya 6 "tingkatan" judul, yang biasa dipa
 >
 > begitupun seterusnya sampai h6.
 
-contoh tag heading :
+#### contoh tag heading :
 
 `<h1>Ini adalah heading 1</h1>`
 
-Contoh Coding Heading :
+#### Contoh Coding Heading :
 
 ```html
 <!DOCTYPE html>
@@ -57,7 +57,7 @@ Setelah Dijalankan, Coding Tersebut akan menghasilkan tampilan seperti berikut:
 
 nah, Sudah keliatan kan hasilnya? jadi h1-h6 adalah cara untuk menuliskan judul pada HTML, selanjutnya kita bakal bahas temennya, yaitu **Paragraf**.
 
-paragraf dalam HTML bisa dipresentasikan dengan :
+#### paragraf dalam HTML bisa dipresentasikan dengan :
 
 `<p>Ini adalah paragraf dalam HTML</p>`
 
@@ -84,4 +84,4 @@ Adapun hasilnya akan seperti ini :
 Silahkan kalian Improvisasi dalam text editor kalian,sekian dari mimin dan Terimakasih sudah mengikuti tutorial HTML #3 kali ini, keep spirit gaes :fist:
 
 \
-#KeepLearning_KeepNgoding
+**\#KeepLearning_KeepNgoding**
