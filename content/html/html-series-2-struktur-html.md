@@ -46,7 +46,7 @@ jangan lupa, tag HTML harus ada pembuka dan ada penutupnya juga "</>"
 </html>
 ```
 
-Penjelasan Perbaris :
+#### Penjelasan Perbaris :
 
 * 1 : tag pertama berisi info kepada browser bahwa codingan ini diisi oleh HTML Versi 5
 * 2 : tag HTML dibuka
@@ -64,6 +64,4 @@ Jika Sudah maka kalian akan menemukan halaman seperti ini :
 
 Sekian Pembahasan kali ini, mimin ucapkan terimakasih!
 
-
-
-\#keepLearning_keepNgoding
+**\#keepLearning_keepNgoding**
