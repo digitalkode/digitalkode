@@ -7,8 +7,6 @@ thumbnail: /images/uploads/html-series-0.jpg
 tags:
   - HTML
   - SERIES
-  - Web Development
-  - Get Started
 ---
 Halo Sobat Digitalkode, Kali ini mimin akan membuat Series Perdana untuk digitalkode, yaitu series HTML. bagi kalian yang baru belajar web development pasti pernah diceramahin : "Mending Belajar HTML dulu aja gan" tapi sebenernya HTML itu apa sih? kok mastah mastah pada nyaranin? penting ga sih si makhluk HTML itu? apa fungsinya di web development?
 
