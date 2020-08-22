@@ -30,12 +30,40 @@ namun karna kebetulan mimin dari lahir udah pakai VSC maka mimin nyaranin kalian
 
 ![](/images/uploads/visual-studio-code-code-editing.-redefined-1-.png)
 
+### Instalasi
+
 * Setelah itu, Buka folder download kemudian double klik pada installer VSC nya, jika muncul *Run as Administrator* Klik yes saja, centang i accept the agreement dan langsung klik next
 
 ![](/images/uploads/2-min.png)
 
 * dihalaman selanjutnya kita akan disuguhkan dengan folder instalasi, lgsg next aja kecuali emg mau kalian rubah tempat instalasi nya.
 
-  ![](/images/uploads/3-min.png)
 
-  oke
+
+![](/images/uploads/3-min.png)
+
+* Langsung gas klik next lagi
+
+![](/images/uploads/4-min.png)
+
+* kemudian centang semua opsi
+
+![](/images/uploads/5-min.png)
+
+* kemudian langsung install
+
+![](/images/uploads/6-min.png)
+
+* Tunggu Proses hingga selesai dan akhirnya klik finish
+
+![](/images/uploads/8-min.png)
+
+**Selamat!** Kalian telah berhasil menginstall Visual Studio Code pada Komputer Kalian, Sekarang saatnya perjalanan asli dimulai. :smiling_imp:
+
+![](/images/uploads/9..png)
+
+Sekian Tutorial instalasi VSC, Sampai Ketemu Di Materi Berikutnya!
+
+Terimakasih!
+
+\#keepLearning_keepNgoding
