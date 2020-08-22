@@ -16,20 +16,17 @@ HTML itu punya Struktur yang wajib hukumnya untuk diterapin
 
 berikut adalah contoh struktur wajib HTML
 
-`<html>`
+```html
+<html>
+  <head>
+    <title>my First website</website>
+  </head>
+  <body>
+    <h1>Hello HTML</h1>
+  </body>
+</html>
+```
 
-`<head>`
-
-`<title>my First website</website>`
-
-`</head>`
-
-`<body>`
-
-`<h1>Hello HTML</h1>`
-
-`</body>`
-
-`</html>`
+``
 
 ``
