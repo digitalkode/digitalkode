@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "HTML SERIES #2 : Struktur HTML"
+title: "HTML 5 SERIES #2 : Struktur HTML"
 draft: false
 date: 2020-08-22T09:29:48.047Z
 thumbnail: /images/uploads/instagram-post-1-1-.jpg
