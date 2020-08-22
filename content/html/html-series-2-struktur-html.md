@@ -16,7 +16,13 @@ HTML itu punya Struktur yang wajib hukumnya untuk diterapin, sintaksis HTML sepe
 
 `<tagname> isi </tagname>`
 
-tagname adalah jenis tag yg harus ditampilkan oleh si browser, seperti <h1> untuk heading 1, <p> untuk paragraf, jangan lupa, tag HTML harus ada pembuka dan ada penutupnya juga "</>"
+tagname adalah jenis tag yg harus ditampilkan oleh si browser, seperti 
+
+`<h1> untuk heading 1 </h1>`
+
+`<p> untuk paragraf </p>`
+
+jangan lupa, tag HTML harus ada pembuka dan ada penutupnya juga "</>"
 
 ### let's ngoding!
 
