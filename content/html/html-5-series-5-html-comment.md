@@ -24,7 +24,7 @@ jadi kita senantiasa memakai comment dalam setiap coding kita, selain pengingat 
 
 #### sintaksis comment HTML :
 
-<!-- ini comment -->
+`<!-- ini comment -->`
 
 #### contoh penggunaan comment :
 
@@ -47,13 +47,13 @@ jadi kita senantiasa memakai comment dalam setiap coding kita, selain pengingat 
 
 #### Output yang dihasilkan :
 
+
+
  <h1>Selamat Datang Di Situs Digitalkode!</h1>
  <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
 
 Seperti yang kalian lihat diatas, dengan comment kita bisa menambahkan *Tanda tangan* kita dalam coding, semua kalimat didalam comment tidak akan dieksekusi kok, bahkan untuk tag yang berada didalam comment pun cuma *Dikacangi* aja wkwkwk. selain itu semua, comment pun dapat membantu programmer lain atau kalian karna memang sudah terdokumentasi.
 
 Sekian Pembahasan mimin mengenai HTML comment, Terimakasih telah mengikuti tutorial HTML series #5 kali ini!
-
-
 
 **\#keepLearning_KeepNgoding**
