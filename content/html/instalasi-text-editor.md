@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: Instalasi Text Editor
-draft: true
+title: "HTML Series #1 : Instalasi Text Editor"
+draft: false
 date: 2020-08-22T08:06:40.958Z
 thumbnail: /images/uploads/instagram-post-1.jpg
 tags:
@@ -37,3 +37,5 @@ namun karna kebetulan mimin dari lahir udah pakai VSC maka mimin nyaranin kalian
 * dihalaman selanjutnya kita akan disuguhkan dengan folder instalasi, lgsg next aja kecuali emg mau kalian rubah tempat instalasi nya.
 
   ![](/images/uploads/3-min.png)
+
+  oke
