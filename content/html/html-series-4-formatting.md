@@ -28,11 +28,11 @@ untuk <b>Bold</b> dia mempunyai sintaksis seperti ini:
 
 `<b>halo, saia adalah Bold </b>`
 
-kemudian untuk italic :
+kemudian untuk <i>italic</i> :
 
 `<i>hola, Saia adalah Italic </i>`
 
-Dan terakhir, untuk garis bawah (underlines) :
+Dan terakhir, untuk garis bawah <u>(underlines)</u> :
 
 `<u>Halu, Saia adalah Underlines </u>`
 
@@ -60,7 +60,5 @@ Dan akan menghasilkan output seperti berikut :
 look! si paragraf udah berubah ya, ada bold, italic dan underlines. jadi demikianlah cara untuk membuat formatting dalam HTML, Silahkan improvisasi Coding kalian dan *oprek* Sesuka kalian.
 
 sekian dari mimin dan terimakasih sudah mengikuti tutorial HTML #4 kali ini!
-
-
 
 \#KeepLearning_KeepNgoding
