@@ -42,4 +42,4 @@ seri #1 akan diisi tutorial instalasi text editor dan persiapan *Ngoding*
 
 Sekian post mimin kali ini, terimakasih sobat digitalkode sudah membaca.
 
-\#keepLearning_keepNgoding
+**\#keepLearning_keepNgoding**
