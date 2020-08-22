@@ -45,9 +45,9 @@ Setelah Dijalankan, Coding Tersebut akan menghasilkan tampilan seperti berikut:
 
 <h1>ini adalah h1</h1>
 
-<h2>ini adalah h2</h2>
+<h3>ini adalah h2</h3>
 
-<h3>ini adalah h3</h3>
+<h2>ini adalah h3</h2>
 
 <h4>ini adalah h4</h4>
 
