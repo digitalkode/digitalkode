@@ -22,7 +22,7 @@ sebenernya ada banyak sih tipe formatting di HTML, cuma mimin kali ini cuma mau 
 
 Untuk list lebih lengkapnya dapat kalian pelajari disini <https://www.w3schools.com/html/html_formatting.asp>
 
-BTW back to topic, jadi bagaimana cara membuat format tulisan seperti diatas?
+#### BTW back to topic, jadi bagaimana cara membuat format tulisan seperti diatas?
 
 untuk <b>Bold</b> dia mempunyai sintaksis seperti ini:
 
@@ -51,7 +51,7 @@ jadi untuk implementasi codenya dapat dibuat seperti berikut :
 </html>  
 ```
 
-Dan akan menghasilkan output seperti berikut :
+####  output :
 
 <h1>Selamat Datang Di Situs Digitalkode!</h1>
 
@@ -61,4 +61,4 @@ look! si paragraf udah berubah ya, ada bold, italic dan underlines. jadi demikia
 
 sekian dari mimin dan terimakasih sudah mengikuti tutorial HTML #4 kali ini!
 
-\#KeepLearning_KeepNgoding
+**\#KeepLearning_KeepNgoding**
