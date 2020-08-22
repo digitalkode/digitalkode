@@ -38,8 +38,6 @@ namun karna kebetulan mimin dari lahir udah pakai VSC maka mimin nyaranin kalian
 
 * dihalaman selanjutnya kita akan disuguhkan dengan folder instalasi, lgsg next aja kecuali emg mau kalian rubah tempat instalasi nya.
 
-
-
 ![](/images/uploads/3-min.png)
 
 * Langsung gas klik next lagi
@@ -66,4 +64,4 @@ Sekian Tutorial instalasi VSC, Sampai Ketemu Di Materi Berikutnya!
 
 Terimakasih!
 
-\#keepLearning_keepNgoding
+**\#keepLearning_keepNgoding**
