@@ -45,7 +45,11 @@ udah paham belum gaes? kalau belum silahkan baca baca lagi ya. jika sudah, Kuy g
   <body>
     <h1>Selamat Datang Di Situs Digitalkode!</h1>
     <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
+    <!-- Link Relative -->
     <a href="../html-5-series-5-html-comment/">Klik Disini untuk menuju post sebelumnya</a>
+    <!-- membuat baris baru (new line) -->
+    <br>
+    <!-- Link Absolute -->
     <a href="https://www.google.com">Klik Disini untuk menuju google</a>
   </body>
 </html> 
@@ -59,7 +63,7 @@ jika sudah, maka akan muncul output seperti ini:
 
 <h1>Selamat Datang Di Situs Digitalkode!</h1>
 <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
-<a href="../html-5-series-5-html-comment/">Klik Disini untuk menuju post sebelumnya</a>
+<a href="../html-5-series-5-html-comment/">Klik Disini untuk menuju post sebelumnya</a><br>
 <a href="https://www.google.com">Klik Disini untuk menuju google</a>
 
 **DONE!**
@@ -67,7 +71,5 @@ jika sudah, maka akan muncul output seperti ini:
 Sekian tutorial HTML links di series HTML digitalkode, wahhh ternyata links sangat berguna ya dalam dunia website, karna dengan adanya links user dapat berpindah halaman. tanpa adanya links. user hanya stuck di 1 halaman saja, Berterima kasihlah pada HTML Links :relieved:
 
 Terimakasih dan sampai jumpa di next tutorial! :sunglasses:
-
-
 
 **\#keepLearning_keepNgoding**
