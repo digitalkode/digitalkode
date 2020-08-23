@@ -12,6 +12,9 @@ disqusShortname = "digitalkode"
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 googleAnalytics = "UA-105587514-4" 
 
+# Pagination
+Paginate = 6
+
 # Optional params
 [params]
   description = "Mewujudkan mimpi di dunia digital"
