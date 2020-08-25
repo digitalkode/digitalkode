@@ -26,11 +26,11 @@ berikut adalah Sintaksis nya:
 
 `<Img Src="Link Menuju Foto" alt="ini gambar" width="200" height="200">`
 
-`SRC adalah singkatan dari Source, yaitu Sumber link si Foto`
+SRC adalah singkatan dari Source, yaitu Sumber link si Foto
 
-`ALT adalah singkatan dari alternative, Yaitu Alternatif tulisan yang muncul ketika foto ``gagal`
+ALT adalah singkatan dari alternative, Yaitu Alternatif tulisan yang muncul ketika foto \`\`gagal
 
-`width & height adalah aturan lebar dan tinggi si gambar`
+width & height adalah aturan lebar dan tinggi si gambar
 
 Oiya, khusus untuk Img, dia nggak pake penutup seperti kawan kawannya yg lain yaa, selain tag img juga banyak tag yg tidak pakai penutup, Nanti akan mimin bahas! :sunglasses:
 
@@ -79,7 +79,5 @@ Silahkan *Oprek* Coding Sesuka kalian, karna semakin kalian *ngoprek* Maka akan 
 Demikian tutorial dari mimin today! terimakasih sudah mengikuti Tutorial HTML 5 Series #7 digitalkode!
 
 See you!
-
-
 
 **\#keepLearning_keepNgoding**
