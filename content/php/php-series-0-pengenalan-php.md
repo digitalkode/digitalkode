@@ -42,7 +42,7 @@ untuk memudahkan sobat digitalkode untuk belajar php, ini beberapa tool yang seb
 1. Software web server, seperti Apache, IIS, PWS (100% gratis)
 2. Software PHP server (100% gratis)
 3. Software database, sebaiknya pilih MySQL karena 100% gratis. Jika sudah menguasai PHP dan MySQL sobat bisa kok dikembangkan ke database yang lain
-4. Text editor, seperti notepad, notepad ++, dan lainnya. tapi disini mimim merekomendasikan menggunakan notepad++, karena selain software ini gratis, juga memudahkan sobat untuk menuliskan bahasa pemrograman
+4. Text editor, seperti notepad, notepad ++, dan lainnya. tapi disini mimin merekomendasikan menggunakan notepad++, karena selain software ini gratis, juga memudahkan sobat untuk menuliskan bahasa pemrograman
 5. Web Editor, seperti Dreamweaver atau Frontpage, kalo yang ini sifatnya optional, cuma sebagai pendukung saja
 
-Untuk tool nomor 1 s/d 3 sobat tidak perlu mencari atau menginstal secara terpisah, karena software paket yang didalamnya udah tersedia web server Apache, PHP server dan MySQL. disini mimim merekomendasikan XAMPP ([https://www.apachefriends.org](https://www.apachefriends.org/index.html)) untuk software nya.
+Untuk tool nomor 1 s/d 3 sobat tidak perlu mencari atau menginstal secara terpisah, karena software paket yang didalamnya udah tersedia web server Apache, PHP server dan MySQL. disini mimin merekomendasikan XAMPP ([https://www.apachefriends.org](https://www.apachefriends.org/index.html)) untuk software nya.
