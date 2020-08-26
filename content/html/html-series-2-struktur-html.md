@@ -1,6 +1,8 @@
 ---
 layout: blog
 title: "HTML 5 SERIES #2 : Struktur HTML"
+authors:
+  - Fliw
 draft: false
 date: 2020-08-22T09:29:48.047Z
 thumbnail: /images/uploads/instagram-post-1-1-.jpg
