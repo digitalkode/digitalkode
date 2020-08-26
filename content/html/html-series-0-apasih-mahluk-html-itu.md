@@ -1,6 +1,8 @@
 ---
 layout: blog
 title: "HTML 5 SERIES #0 : Apasih Makhluk HTML itu?"
+authors:
+  - Fliw
 draft: false
 date: 2020-08-21T10:16:15.875Z
 thumbnail: /images/uploads/html-series-0.jpg
