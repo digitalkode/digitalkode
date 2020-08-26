@@ -10,7 +10,7 @@ tags:
   - HTML
   - SERIES
 ---
-CiHalo Sobat Digitalkode!, kembali lagi sama mimin, kali ini mimin akan bahas tentang HTML Lists. Dari judulnya udah ketauan nih, pasti isinya tentang *Daftar*, Yoi Masbro! isinya emang tentang daftar, ketika kalian buat Daftar di HTML pasti ada salah satu yg *barbar* Diantara kalian dengan menuliskan seperti ini :
+Halo Sobat Digitalkode!, kembali lagi sama mimin, kali ini mimin akan bahas tentang HTML Lists. Dari judulnya udah ketauan nih, pasti isinya tentang *Daftar*, Yoi Masbro! isinya emang tentang daftar, ketika kalian buat Daftar di HTML pasti ada salah satu yg *barbar* Diantara kalian dengan menuliskan seperti ini :
 
 ```html
 <h3>list pesanan bu tedjo</h3>
