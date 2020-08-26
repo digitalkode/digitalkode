@@ -98,8 +98,6 @@ berikut output ketika kode diatas dijalankan :
       <li>Kacang Panjang</li>
       <li>Lengkuas</li>
     </ul>
-    
-    <!-- tag ol diberikan untuk menandai tipe dari Lists -->
     <ol>
       <!-- tag li adalah isi satuan dari list yang dibuat -->
       <li>Kunyit</li>
