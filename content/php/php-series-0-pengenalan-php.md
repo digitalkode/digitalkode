@@ -40,8 +40,8 @@ Tool apa aja sih yang diperlukan untuk belajar php ?
 untuk memudahkan sobat digitalkode untuk belajar php, ini beberapa tool yang sebaiknya soba punya:
 
 1. Software web server, seperti Apache, IIS, PWS (100% gratis)
-2. Softeware PHP server (100% gratis)
-3. Software database, sebaiknya pilih MySQL karena 100% gratis. Jika sudah menguasai PHP dan MySQL sobat bisa kok dikembangakan ke database yang lain
+2. Software PHP server (100% gratis)
+3. Software database, sebaiknya pilih MySQL karena 100% gratis. Jika sudah menguasai PHP dan MySQL sobat bisa kok dikembangkan ke database yang lain
 4. Text editor, seperti notepad, notepad ++, dan lainnya. tapi disini mimim merekomendasikan menggunakan notepad++, karena selain software ini gratis, juga memudahkan sobat untuk menuliskan bahasa pemrograman
 5. Web Editor, seperti Dreamweaver atau Frontpage, kalo yang ini sifatnya optional, cuma sebagai pendukung saja
 
