@@ -1,6 +1,8 @@
 ---
 layout: blog
 title: "HTML 5 SERIES #6 : HTML Links"
+authors:
+  - Fliw
 draft: false
 date: 2020-08-23T03:18:49.511Z
 thumbnail: /images/uploads/instagram-post-2-3-.jpg
