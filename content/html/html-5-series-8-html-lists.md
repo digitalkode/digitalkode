@@ -226,8 +226,6 @@ Berikut hasilnya :
       <li>Kacang Panjang</li>
       <li>Lengkuas</li>
     </ul>
-    
-    <!--Ordered Lists-->
     <h3> OL Kapital </h3>
     <ol type="A">
       <li>Kunyit</li>
@@ -312,7 +310,5 @@ hasilnya seperti ini :
 <hr><hr>
 
 Demikian tutorial Cara membuat Lists HTML di Series HTML 5 Digitalkode! Terimakasih telah mengikuti tutorial ini!
-
-
 
 **\#KeepLearning_KeepNgoding**
