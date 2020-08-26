@@ -20,7 +20,7 @@ Misal sobat digitalkode ingin membuat script/program untuk menjumlahkan dua buah
 
 Apa ada jenis lain selain server side programming? Ya.. tentu ada dong, yaitu client side programming. Jenis pemrograman ini kebalikan dari server side programming. 
 
-Untuk menggambarkan client side programming, kita samakan saja kasusnya seperti server side programming. Misalkan sobat membuat form input untuk memasukan dua bilangan, serta script untuk menjumlahkannya. Karena sobat menggunakan script client side programming, maka script tersebut juga aka terakses oleh user. Biasanya suka diletakan dalam satu halaman yang sama dengan form.
+Untuk menggambarkan client side programming, kita samakan saja kasusnya seperti server side programming. Misalkan sobat membuat form input untuk memasukan dua bilangan, serta script untuk menjumlahkannya. Karena sobat menggunakan script client side programming, maka script tersebut juga akan terakses oleh user. Biasanya suka diletakan dalam satu halaman yang sama dengan form.
 
 Mudah mudahan sobat digitalkode faham mengenai server side programming dan client side programming.
 
