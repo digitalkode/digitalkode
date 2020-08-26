@@ -1,6 +1,8 @@
 ---
 layout: blog
 title: "HTML 5 SERIES #1 : Instalasi Text Editor"
+authors:
+  - Fliw
 draft: false
 date: 2020-08-22T08:06:40.958Z
 thumbnail: /images/uploads/instagram-post-1.jpg
