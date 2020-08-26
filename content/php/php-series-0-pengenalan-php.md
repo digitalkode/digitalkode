@@ -22,7 +22,7 @@ Apa ada jenis lain selain server side programming? Ya.. tentu ada dong, yaitu cl
 
 Untuk menggambarkan client side programming, kita samakan saja kasusnya seperti server side programming. Misalkan sobat membuat form input untuk memasukan dua bilangan, serta script untuk menjumlahkannya. Karena sobat menggunakan script client side programming, maka script tersebut juga aka terakses oleh user. Biasanya suka diletakan dalam satu halaman yang sama dengan form.
 
-Mudah mudahan sobat digitalkode faham mengenai serve side programming dan client side programming.
+Mudah mudahan sobat digitalkode faham mengenai server side programming dan client side programming.
 
 Selain PHP sebenarnya banyak lagi loh jenis pemrograman lain yang server side, seperti ASP (Active Server Pages), JSP (Java Server Pages), Phyton, Pearl dan banyak lagi.. 
 
