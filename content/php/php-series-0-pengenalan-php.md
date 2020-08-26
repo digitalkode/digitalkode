@@ -29,8 +29,8 @@ Selain PHP sebenarnya banyak lagi loh jenis pemrograman lain yang server side, s
 PHP ini mempunyai beberapa kelebihan loh, diantaranya :
 
 1. Bahasa pemrograman PHP sangat mudah untuk dipelajari
-2. PHP sangat mudah di implementasikan karena software PHP servernya gratis
-3. Banyak server web hosting mendupport PHP
+2. PHP sangat mudah diimplementasikan karena software PHP servernya gratis
+3. Banyak server web hosting mensupport PHP
 4. PHP paling banyak digunakan oleh web programmer di seluruh dunia
 5. Mudah untuk melakukan instalasi PHP server sendiri di komputer pribadi untuk belajar
 6. Integrasi antara PHP dan database mudah untuk diimplementasikan karena PHP mensupport banyak database (DBMS), seperti MySQL, MS. Access, Oracle, DB2, Dbase Interbase, dan lain lain
