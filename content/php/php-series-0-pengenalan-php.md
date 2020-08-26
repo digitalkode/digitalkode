@@ -10,6 +10,8 @@ tags:
 ---
 Hai sobat digitalkode, kita udah masuk ke series ke dua nih mengenai PHP, kita kenalan yuk sama PHP ini ! let's learning...
 
+**Apa sih PHP itu ?**
+
 PHP merupakan singkatan dari PHP : Hypertext Preprocessor adalah suatu bahasa pemrograman yang termasuk kategori server side programming. Wahh... apaan tuh maksudnya server side programming? server side programming adalah jenis bahasa pemrograman yang nantinya script/program tersebut akan dijalankan oleh server. Selanjutnya hasil pengolahan script/program tersebut akan dikirim ke client sebagai output.
 
 Sebagai gambaran aja nih mengenai server side programming :
