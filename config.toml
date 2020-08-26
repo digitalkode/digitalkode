@@ -66,5 +66,9 @@ Paginate = 6
   name = "blog"
   title = "Blog"
   url = "/blog"
+  
+[taxonomies]
+  author = "authors"
+  tag = "tags"
 
 enableEmoji = true
