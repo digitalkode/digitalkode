@@ -1,6 +1,8 @@
 ---
 layout: blog
 title: "HTML 5 SERIES #7 : HTML Images"
+authors:
+  - Fliw
 draft: false
 date: 2020-08-25T04:41:09.560Z
 thumbnail: /images/uploads/instagram-post-2-4-.jpg
