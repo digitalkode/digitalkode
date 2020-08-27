@@ -1,4 +1,4 @@
 ---
 title: Daftar Penulis
 ---
-MUHAMMAD FAISAL
+MUHAMAD FAISAL
