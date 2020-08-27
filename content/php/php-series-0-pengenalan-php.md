@@ -35,7 +35,7 @@ PHP ini mempunyai beberapa kelebihan loh, diantaranya :
 5. Mudah untuk melakukan instalasi PHP server sendiri di komputer pribadi untuk belajar
 6. Integrasi antara PHP dan database mudah untuk diimplementasikan karena PHP mensupport banyak database (DBMS), seperti MySQL, MS. Access, Oracle, DB2, Dbase Interbase, dan lain lain
 
-Tool apa aja sih yang diperlukan untuk belajar php ?
+**Tool apa aja sih yang diperlukan untuk belajar php ?**
 
 untuk memudahkan sobat digitalkode untuk belajar php, ini beberapa tool yang sebaiknya soba punya:
 
