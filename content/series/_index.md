@@ -5,7 +5,7 @@ sessions:
     title: HTML Series
     image: /images/uploads/html-series.jpg
     status: "On Going"
-  - path: /PHP
+  - path: /php
     title: PHP Series
     image: /images/uploads/php-series-depan.png
     status: "On Going"
