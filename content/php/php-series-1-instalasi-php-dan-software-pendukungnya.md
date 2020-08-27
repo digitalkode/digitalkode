@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "PHP SERIES #1 : Instalasi PHP dan Software Pendukungnya"
-draft: true
+draft: false
 date: 2020-08-27T02:31:59.403Z
 thumbnail: /images/uploads/php-series-1-.png
 ---
