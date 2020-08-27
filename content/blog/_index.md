@@ -1,3 +1,4 @@
 ---
-title: Artikel Terbaru
+title: "Artikel Terbaru"
+description: "Artikel terbaru dari Digitalkode.com"
 ---
