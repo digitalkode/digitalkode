@@ -1,6 +1,8 @@
 ---
 layout: blog
 title: "HTML 5 SERIES #3 : Heading dan Paragraf"
+authors:
+  - Fliw
 draft: false
 date: 2020-08-22T16:38:22.647Z
 thumbnail: /images/uploads/instagram-post-2.jpg

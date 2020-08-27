@@ -1,6 +1,8 @@
 ---
 layout: blog
 title: "HTML 5 SERIES #4 : Formatting"
+authors:
+  - Fliw
 draft: false
 date: 2020-08-22T17:08:30.506Z
 thumbnail: /images/uploads/instagram-post-2-1-.jpg
