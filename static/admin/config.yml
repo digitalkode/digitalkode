@@ -6,6 +6,7 @@ backend:
   auth_endpoint: netlify-login/auth
   site_domain: https://www.digitalkode.com
   open_authoring: true
+  publish_mode: editorial_workflow
   commit_messages:
     create: Create {{collection}} "{{slug}}"
     update: Update {{collection}} "{{slug}}"
