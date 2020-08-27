@@ -6,13 +6,13 @@ backend:
   auth_endpoint: netlify-login/auth
   site_domain: https://www.digitalkode.com
   open_authoring: true
-  publish_mode: editorial_workflow
   commit_messages:
     create: Create {{collection}} "{{slug}}"
     update: Update {{collection}} "{{slug}}"
     delete: Delete {{collection}} "{{slug}}"
     uploadMedia: Upload "{{path}}"
     deleteMedia: Delete "{{path}}"
+publish_mode: editorial_workflow
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
