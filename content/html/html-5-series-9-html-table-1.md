@@ -3,7 +3,7 @@ layout: blog
 title: "HTML 5 SERIES #9 : HTML Table"
 authors:
   - Fliw
-draft: true
+draft: false
 date: 2020-08-28T15:05:11.696Z
 thumbnail: /images/uploads/instagram-post-2-6-.jpg
 tags:
@@ -61,6 +61,8 @@ contoh tag html sederhana :
 
 hasilnya seperti berikut :
 
+![](/images/uploads/annotation-2020-08-28-221150.png)
+
 ### Advanced Mode 🕶[](https://www.digitalkode.com/html/html-5-series-9-html-table/#advanced-mode-sunglasses)
 
 * **Menambahkan warna pada cell**
@@ -99,6 +101,10 @@ hasilnya seperti berikut :
   ```
 
   output :
+
+  ![](/images/uploads/annotation-2020-08-28-221432.png)
+
+
 * menambah ukuran baris maupun kolom
 
   selain mengubah warna, kalian dapat juga menggabungkan cell dalam tabel html kalian, ingatlah 2 biji atribut ini :
@@ -150,84 +156,10 @@ hasilnya seperti berikut :
 
   setelah dijalankan, outputnya seperti ini :
 
-sekian tutorial cara membuatt HTML table di digitalkode kali ini, terimakasih telah mengikuti materi seri HTML ke #9!
-
-\#keepNgoding_keepLearning
+  ![](/images/uploads/annotation-2020-08-28-221533.png)
 
 
 
-Halo sobat Digitalkode! di tutorial kali ini, mimin akan menyampaikan salah satu materi yang paling sulit dalam HTML.
-
-Walau Table ini tingkatannya lumayan sulit, tapi percaya deh semua akan menjadi mudah ketika kalian terbiasa.
-
-> Every mastah start from noob.
-
-seperti judulnya, kali ini kita akan membahas tabel! Why tabel? karna tabel ini adalah salah satu bentuk penyajian data yang paling mudah untuk dibaca, layaknya MS-Excel.
-
-### Tag HTML Table[\#](https://www.digitalkode.com/html/html-5-series-9-html-table/#tag-html-table)
-
-Si HTML udah siapin banyak bgt alat tempur untuk kita membuat tag, let’s see :
-
-* tag `<table>` untuk membungkus table HTML.
-* tag `<thead>` adalah singkatan dari *table head* yang berarti tag ini akan membungkus judul table.
-* tag`<tbody>`adalah singkatan dari *table body* yang berarti tag ini akan membungkus body / badan table.
-* tag `<tr>`adalah singkatan dari *table row* yang berarti baris.
-* tag `<td>`adalah singkatan dari *table data* yang berarti data dalam *cell.*
-* tag `<th>`adalah singkatan dari table head yang berarti judul dalam header
-
-wahh banyak bgt ya! santuy gaes, kalian gaperlu hafalin semuanya kok. cukup tag `<table>,<tr>,<td>`saja yang perlu diingat diluar kepala, sisanya opsional.
-
-contoh tag html sederhana :
-
-```html
-
-```
-
-hasilnya seperti berikut :
-
-# Belajar HTML Table bersama digitalkode!
-
-Tempat berbagai macam **tutorial** *pemograman* secara *gratis!*
-
-|                 |                 |
-| --------------- | --------------- |
-| kolom 1 baris 1 | kolom 2 baris 1 |
-| kolom 1 baris 2 | kolom 2 baris 2 |
-
-bisa kalian lihat kan? tabelnya sudah muncul, jadi begitu cara untuk membuat tabel sederhana dalam HTML.
-
-### Advanced Mode 🕶[\#](https://www.digitalkode.com/html/html-5-series-9-html-table/#advanced-mode-sunglasses)
-
-* **Menambahkan warna pada cell**
-
-  > Min! aku maunya pake warna.
-
-  wojelas bisa, kalian dapat menambahkan warna pada tabel kalian dengan menggunakan atribut `bgcolor`dengan valuenya dapat berisi heksadesimal atau warna dalam bahasa inggris (red,blue dll)
-
-  contoh :
-
-  ```html
-
-  ```
-
-  output :
-* menambah ukuran baris maupun kolom
-
-  selain mengubah warna, kalian dapat juga menggabungkan cell dalam tabel html kalian, ingatlah 2 biji atribut ini :
-
-  1. `rowspan` untuk menggabungkan baris.
-  2. `colspan` untuk menggabungkan kolom.
-
-  kedua atribut ini berlaku pada tag `<td> dan <th>`
-
-  contoh penggunaan rowspan dan colspan :
-
-  ```html
-
-  ```
-
-  setelah dijalankan, outputnya seperti ini :
-
-sekian tutorial cara membuatt HTML table di digitalkode kali ini, terimakasih telah mengikuti materi seri HTML ke #9!
+sekian tutorial cara membuat HTML table di digitalkode kali ini, terimakasih telah mengikuti materi seri HTML ke #9!
 
 \#keepNgoding_keepLearning
