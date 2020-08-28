@@ -118,23 +118,6 @@ bisa kalian lihat kan? tabelnya sudah muncul, jadi begitu cara untuk membuat tab
   ```
 
   output :
-
-  <h1>Belajar HTML Table bersama digitalkode!</h1>
-      <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
-      <!--atribut border ada untuk memberi garis batas antar baris dan kolom-->
-      <table border="1">
-        <!-- membuat baris baru -->
-          <tr bgcolor="darkslateblue">
-            <!-- membuat kolom-->
-              <td>kolom 1 baris 1</td>
-              <td>kolom 2 baris 1</td>
-          </tr>
-        <!-- membuat baris baru -->
-          <tr>
-              <td bgcolor="skyblue">kolom 1 baris 2</td>
-              <td>kolom 2 baris 2</td>
-          </tr>
-      </table>
 * menambah ukuran baris maupun kolom
 
   selain mengubah warna, kalian dapat juga menggabungkan cell dalam tabel html kalian, ingatlah 2 biji atribut ini :
@@ -185,35 +168,6 @@ bisa kalian lihat kan? tabelnya sudah muncul, jadi begitu cara untuk membuat tab
   ```
 
   setelah dijalankan, outputnya seperti ini :
-
-  <h1>Belajar HTML Table bersama digitalkode!</h1>
-      <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
-      <table border="1">
-          <tr>
-            <!-- menggabungkan baris dan kolom-->
-              <th rowspan="2" bgcolor="darkslateblue">Merk</th>
-              <th colspan="2" bgcolor="skyblue">Laptop</th>
-          </tr>
-          <tr>
-              <th>Low End</th>
-              <th>High End</th>
-          </tr>
-          <tr>
-              <td>Asus</td>
-              <td>3.000.000</td>
-              <td>40.000.000</td>
-          </tr>
-          <tr>
-              <td>HP</td>
-              <td>2.000.000</td>
-              <td>50.000.000</td>
-          </tr>
-          <tr>
-              <td>MSi</td>
-              <td>12.000.000</td>
-              <td>90.000.000</td>
-          </tr>
-      </table>
 
 sekian tutorial cara membuatt HTML table di digitalkode kali ini, terimakasih telah mengikuti materi seri HTML ke #9!
 
