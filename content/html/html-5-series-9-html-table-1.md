@@ -36,7 +36,7 @@ contoh tag html sederhana :
 ```html
 <html>
   <head>
-    <title>Belajar HTML Lists Digitalkode</title>
+    <title>Belajar HTML Table Digitalkode</title>
   </head>
   <body>
     <h1>Belajar HTML Table bersama digitalkode!</h1>
@@ -76,7 +76,7 @@ hasilnya seperti berikut :
   ```html
   <html>
     <head>
-      <title>Belajar HTML Lists Digitalkode</title>
+      <title>Belajar HTML Table Digitalkode</title>
     </head>
     <body>
       <h1>Belajar HTML Table bersama digitalkode!</h1>
@@ -103,8 +103,6 @@ hasilnya seperti berikut :
   output :
 
   ![](/images/uploads/annotation-2020-08-28-221432.png)
-
-
 * menambah ukuran baris maupun kolom
 
   selain mengubah warna, kalian dapat juga menggabungkan cell dalam tabel html kalian, ingatlah 2 biji atribut ini :
@@ -119,7 +117,7 @@ hasilnya seperti berikut :
   ```html
   <html>
     <head>
-      <title>Belajar HTML Lists Digitalkode</title>
+      <title>Belajar HTML Table Digitalkode</title>
     </head>
     <body>
       <h1>Belajar HTML Table bersama digitalkode!</h1>
@@ -157,8 +155,6 @@ hasilnya seperti berikut :
   setelah dijalankan, outputnya seperti ini :
 
   ![](/images/uploads/annotation-2020-08-28-221533.png)
-
-
 
 sekian tutorial cara membuat HTML table di digitalkode kali ini, terimakasih telah mengikuti materi seri HTML ke #9!
 
