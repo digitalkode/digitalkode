@@ -3,7 +3,7 @@ layout: blog
 title: "HTML 5 SERIES #10 : HTML Form"
 authors:
   - Fliw
-draft: true
+draft: false
 date: 2020-08-29T14:15:20.684Z
 thumbnail: /images/uploads/instagram-post-2-7-.jpg
 tags:
