@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "HTML 5 SERIES #10 : HTML Forms"
+title: "HTML 5 SERIES #10 : HTML Form"
 authors:
   - Fliw
 draft: true
