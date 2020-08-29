@@ -57,7 +57,7 @@ field memiliki 2 atribut yang wajib diberikan, yakni : `type`dan `name` .
 
 ### Let's Ngoding
 
-tulislah kode berikut di code editor kesukaan kalian :
+tulislah kode berikut di code editor kalian :
 
 ```django
 <html>
