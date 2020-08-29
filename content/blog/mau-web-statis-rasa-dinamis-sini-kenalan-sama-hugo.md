@@ -2,7 +2,7 @@
 layout: blog
 title: Mau web statis rasa dinamis? sini kenalan sama HUGO.
 authors:
-  - Fliw
+  - fliw
 draft: false
 date: 2020-08-19T16:14:47.232Z
 thumbnail: /images/uploads/ひらがな.png
