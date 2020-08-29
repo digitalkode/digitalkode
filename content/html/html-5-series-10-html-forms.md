@@ -30,10 +30,10 @@ Form di HTML dapat dibuat dengan tag `<Form>`
 
 si form ini punya 2 atribut yang wajib hukumnya untuk diberikan yakni:
 
-`action `dan `method `
+`action`dan `method`
 
-* `action `adalah atribut untuk menentukan kemana data formulir ini akan dikirim.
-* `method `adalah bentuk metode dalam pengirimannya (nanti kita kupas lebih lanjut di Series PHP)
+* `action`adalah atribut untuk menentukan kemana data formulir ini akan dikirim.
+* `method`adalah bentuk metode dalam pengirimannya (nanti kita kupas lebih lanjut di Series PHP)
 
 jadi si form ini minimal wajib punya 2 biji atribut ini. contoh sederhana form :
 
@@ -50,14 +50,14 @@ itu karena kita belum menambahkan field input, apa itu field input?
 
 field input adalah bagian yang dapat diisi dengan data formulir.
 
-field memiliki 2 atribut yang wajib diberikan, yakni : `type `dan `name` . 
+field memiliki 2 atribut yang wajib diberikan, yakni : `type`dan `name` . 
 
-* `type `adalah jenis tipe inputan dari user.
-* `name `adalah nama utama dari field yang mana nanti akan berperan menjadi nama variabel di program.
+* `type`adalah jenis tipe inputan dari user.
+* `name`adalah nama utama dari field yang mana nanti akan berperan menjadi nama variabel di program.
 
 ### Let's Ngoding
 
-tulislah kode berikut di code editor kalian :
+tulislah kode berikut di code editor kesukaan kalian :
 
 ```django
 <html>
