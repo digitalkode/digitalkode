@@ -3,7 +3,7 @@ layout: blog
 title: "Kesempatan berkontribusi di digitalkode. "
 authors:
   - Dihak
-draft: true
+draft: false
 date: 2020-08-30T11:32:28.315Z
 thumbnail: /images/uploads/kontribusi-di-web-digitalkode.jpg
 tags:
