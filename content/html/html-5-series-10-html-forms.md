@@ -55,6 +55,17 @@ field memiliki 2 atribut yang wajib diberikan, yakni : `type`dan `name` .
 * `type`adalah jenis tipe inputan dari user.
 * `name`adalah nama utama dari field yang mana nanti akan berperan menjadi nama variabel di program.
 
+### jenis jenis type
+
+ada banyak gaes jenis jenis type dalam form HTML, kuy kenalan satu persatu:
+
+* **text** : yaitu input yg bertipe text satu baris.
+* **password** : yaitu input yg bertipe password (disamarkan dengan bintang)
+* **submit** : yaitu input untuk mengirim formulir dan diproses.
+* **reset** : yaitu input untuk menghapus semua field formulir yang sudah diisi dan digantikan dengan blank.
+* **radio** : yaitu input yang menyuruh user MEMILIH SATU pilihan saja dari beberapa pilihan.
+* **checkbox** : yaitu user
+
 ### Let's Ngoding
 
 tulislah kode berikut di code editor kalian :
@@ -70,7 +81,7 @@ tulislah kode berikut di code editor kalian :
     <form action="login.php" method="POST">
       <!--field set untuk membungkus field yang ada di form-->  
       <fieldset>
-        
+        <!--memberi tulisan pada fieldset-->
         <legend>Login user</legend>
         <p>
             <label>Username:</label>
@@ -92,3 +103,9 @@ tulislah kode berikut di code editor kalian :
 berikut outputnya :
 
 ![](/images/uploads/annotation-2020-08-29-214427.png)
+
+sekarang coba fokus ke code diatas, dapat dilihat bahwa kita membuat 3 biji form, yaitu :
+
+* username yang bertipe text dan nama variabelnya yaitu username.
+* password yang bertipe password dan nama variabelnya yaitu password.
+* submit yang bertipe submit.
