@@ -55,6 +55,39 @@ field memiliki 2 atribut yang wajib diberikan, yakni : `type`dan `name` .
 * `type`adalah jenis tipe inputan dari user.
 * `name`adalah nama utama dari field yang mana nanti akan berperan menjadi nama variabel di program.
 
+### jenis jenis type dan aturan form
+
+ada banyak gaes jenis jenis type dalam form HTML, kuy kenalan satu persatu:
+
+* **text** : yaitu input yg bertipe text satu baris.
+* **password** : yaitu input yg bertipe password (disamarkan dengan bintang)
+* **submit** : yaitu input untuk mengirim formulir dan diproses.
+* **number**  : yaitu input yang hanya dapat diisi oleh angka.
+* **reset** : yaitu input untuk menghapus semua field formulir yang sudah diisi dan digantikan dengan blank.
+* **radio** : yaitu input yang menyuruh user **MEMILIH SATU** pilihan saja dari beberapa pilihan.
+* **checkbox** : yaitu user bisa memilih **NOL** atau **LEBIH** pilihan dari beberapa pilihan.
+* **button** : yaitu input yg bertipe tombol (Button)
+* **color** : yaitu input dengan tipe warna, berguna saat pemilihan warna.
+* **date** : yaitu input untuk memilih tanggal seperti kalendar.
+* **email** : yaitu input yang hanya dapat diisi oleh email.
+* **file** : yaitu input type jika kita ingin mengupload sebuah file ke HTML Forms
+* **textarea** : yaitu input ketika kita akan mengisi tulisan yang sangat panjang seperti alamat rumah dll.
+
+selain itu, ada juga atribut yang dapat diaplikasikan untuk memberi **aturan** pada HTML Forms, Yaitu :
+
+* **checked** : yaitu atribut yang berguna untuk menceklis secara default sebuah form saat pertama di load.
+* **disabled** : yaitu atribut yang berguna untuk menonaktifkan input sehingga tidak bisa diisi.
+* **max** : yaitu atribut untuk memberi batasan maksimal input.
+* **maxlength** : yaitu atribut untuk memberi batasan maksimal **KARAKTER HURUF/ANGKA** di input.
+* **min** : yaitu atribut untuk memberi batasan minimal input.
+* **minlength** : yaitu atribut untuk memberi batasan minimal **KARAKTER HURUF/ANGKA** di input.
+* **readonly** : yaitu atribut yang membuat field hanya dapat di read saja, tidak dapat diubah, mirip seperti disabled.
+* **required** : yaitu atribut untuk membuat field form menjadi wajib diisi.
+* **placeholder** : yaitu atribut untuk menampilkan teks sementara, ketika field belum diisi oleh user.
+* **value** : yaitu atribut untuk mengisi nilai si field secara default.
+
+
+
 ### Let's Ngoding
 
 tulislah kode berikut di code editor kalian :
@@ -67,23 +100,47 @@ tulislah kode berikut di code editor kalian :
   <body>
     <h1>Belajar HTML Forms bersama digitalkode!</h1>
     <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
-    <form action="login.php" method="POST">
-      <!--field set untuk membungkus field yang ada di form-->  
+    <form action="regist.php" method="POST">
       <fieldset>
-        
-        <legend>Login user</legend>
+        <legend>Registrasi</legend>
+        <p>
+            <label>Nama:</label>
+            <input type="text" name="nama" placeholder="tulis nama..." />
+        </p>
         <p>
             <label>Username:</label>
-            <input type="text" name="username" placeholder="Masukkan username" />
+            <input type="text" name="username" placeholder="tulis username..." />
+        </p>
+        <p>
+            <label>Email:</label>
+            <input type="email" name="email" placeholder="tulis email..." />
         </p>
         <p>
             <label>Password:</label>
-            <input type="password" name="password" placeholder="Masukkan password" />
+            <input type="password" name="password" placeholder="Passowrd..." />
         </p>
         <p>
-            <input type="submit" name="submit" value="Login" />
+            <label>Jenis kelamin:</label>
+            <label><input type="radio" name="jenis_kelamin" value="laki-laki" /> Laki-laki</label>
+            <label><input type="radio" name="jenis_kelamin" value="perempuan" /> Perempuan</label>
         </p>
-      </fieldset>
+        <p>
+            <label>Agama:</label>
+            <select name="agama">
+                <option value="islam">Islam</option>
+                <option value="kristen">Kristen</option>
+                <option value="hindu">Hindu</option>
+                <option value="budha">Budha</option>
+            </select>
+        </p>
+        <p>
+            <label>Biografi:</label>
+            <textarea name="biografi"></textarea>
+        </p>
+        <p>
+            <input type="submit" name="submit" value="Daftar" />
+        </p>
+        </fieldset>
     </form>
   </body>
 </html> 
@@ -92,3 +149,15 @@ tulislah kode berikut di code editor kalian :
 berikut outputnya :
 
 ![](/images/uploads/annotation-2020-08-29-214427.png)
+
+sekarang coba fokus ke code diatas, dapat dilihat bahwa kita membuat 3 biji form, yaitu :
+
+* username yang bertipe text dan nama variabelnya yaitu username.
+* password yang bertipe password dan nama variabelnya yaitu password.
+* submit yang bertipe submit.
+
+semua field diatas dibungkus dalam tag `fieldset` yang mana `fieldset `itu sendiri diberi judul oleh `<legend> `
+
+dan kedua field input disana diberi 2 atribut yaitu placeholder dan value.
+
+### advanced mode :sunglasses:
