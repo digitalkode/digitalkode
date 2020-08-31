@@ -36,7 +36,7 @@ Diantara kedua aturan diatas, saya menyarankan untuk pake yang pertama, kenapa y
 
 **Menyimpan File PHP**
 
-Gimana sih cara menyimpan file PHP itu? Scrip PHP yang dibuat harus disimpan dalam ekstensi **\*.php**. Kalau tidak, maka script tidak bisa dijalan kan dan hanya dianggap teks biasa saja.  Untuk menyimpan file PHP ini saya sudah jelaskn di series pertama.
+Gimana sih cara menyimpan file PHP itu? Scrip PHP yang dibuat harus disimpan dalam ekstensi **\*.php**. Kalau tidak, maka script tidak bisa dijalan kan dan hanya dianggap teks biasa saja.  Untuk menyimpan file PHP ini saya sudah jelaskn di series [sebelumnya](https://www.digitalkode.com/php/php-series-2-konfigurasi-apache-php-dan-mysql/).
 
 Nahh sekarang saya mau ngajak sobat digitalkode buat ngoding nih, Buka teks editor kesukaan kalian, selanjutnya ketik script berikut :
 
