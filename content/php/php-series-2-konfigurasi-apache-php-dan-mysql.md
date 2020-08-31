@@ -3,7 +3,7 @@ layout: blog
 title: "PHP SERIES #2 : Konfigurasi Apache, PHP dan MySQL"
 authors:
   - Ridwan
-draft: true
+draft: false
 date: 2020-08-27T13:55:24.132Z
 thumbnail: /images/uploads/php-series-2.png
 tags:
