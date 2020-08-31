@@ -6,6 +6,9 @@ authors:
 draft: true
 date: 2020-08-27T14:40:14.025Z
 thumbnail: /images/uploads/2.jpg
+tags:
+  - RI4.0
+  - Programer
 ---
 Hallo sobat digital kode kali ini saya mau ngenalin tentang Revolusi Industri 4.0 itu apa??
 
