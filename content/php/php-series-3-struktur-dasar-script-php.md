@@ -3,7 +3,7 @@ layout: blog
 title: "PHP SERIES #3 : Struktur Dasar Script PHP"
 authors:
   - Ridwan
-draft: true
+draft: false
 date: 2020-08-31T02:17:35.278Z
 thumbnail: /images/uploads/php-series-3.png
 tags:
