@@ -34,3 +34,5 @@ Keamanan adalah tantangan terbesar yang harus siap dihadapi industri 4.0. Penggu
 * **Tenaga Kerja**
 
 Adopsi industry 4.0 dapat menyebabkan banyaknya tenaga kerja manusia yang digantikan oleh mesin. Hal ini dapat memicu meningkatnya pengangguran. Maka dari itu diperlukan pendidikan yang dapat menompang generasi selanjutnya untuk dapat memenuhi *skill* yang dibutuhkan di industri 4.0.
+
+nah jadi gitu sobat digital kode mungkin diantara kalian yang mau nambahin silahkan di komen yahhhh :D
