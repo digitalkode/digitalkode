@@ -3,7 +3,7 @@ layout: blog
 title: Belajar Golang Yuk
 authors:
   - Irvan Ahmad P.
-draft: true
+draft: false
 date: 2020-08-31T14:11:20.201Z
 thumbnail: /images/uploads/golang-img.png
 tags:
