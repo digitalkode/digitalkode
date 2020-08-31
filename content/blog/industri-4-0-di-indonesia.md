@@ -7,20 +7,16 @@ draft: true
 date: 2020-08-27T14:40:14.025Z
 thumbnail: /images/uploads/2.jpg
 ---
-Hallo sobat digital kode kali ini mimin mau ngenalin Revolusi Industri 4.0 itu apa??
+Hallo sobat digital kode kali ini saya mau ngenalin tentang Revolusi Industri 4.0 itu apa??
 
-Oke mungkin diantara kalian masih belum tau nihh tentang Revolusi Industri 4.0 dan perkembangannya di Indonesia maupun di luar negri?
+Bicara tentang Revolusi Industri 4.0 mungkin diantara kalian sudah pada tau tentang hal ini, revolusi industri 4.0 semarak di perbincangkan di TV, medsos, dikalangan pembisnis dan juga para tokoh nasional.
 
-Sebelum ke Revolusi Industri 4.0 dibahas mimin bakal jelasin dulu tentang apa itu Industri 4.0?
+istilah ini sebenernya adalah bahasa hits guys yang mengikuti perkembangan zaman ke zaman 
 
-# Apa itu Industri 4.0?
+sebelum saya bahas lebis jauh lagi kita bahas pengertiannya dulu yuuu
 
-sebelum kepenjelasan lebih jauh mimin bakal jelasin dulu tentang Industri 4.0.
+# Apa itu Revolusi Industri 4.0?
 
-> **Menurut penjelasan wikipedia yang mimin baca Industri 4.0 adalah** nama tren otomasi dan pertukaran data terkini dalam teknologi pabrik.
+> **Revolusi Industri 4.0 adalah** perubahan sistem kerja manusia yang di bantu oleh program komputer yang menghasilkan alat produksi yang canggih.
 
-Istilah Industri 4.0 berasal dari sebuah proyek besar dalam strategi teknologi canggih di temukan oleh *pemerintahan geman* yang mengutamakan program komputer.
-
-
-
-Tahapan revolusi 4.0
+lebih detailnya dari revolusi industri 4.0 beberapa hal produksi yang tadinya sulit lama dengan adanya sistem industri 4.0 jadi lebih mudah cepat dan kalian harus ingat guysss bahwa dengan kita menerapkan sistem industri 4.0 ini mengeluarkan biaya yang sangat besar guys. biasanya sistem industri 4.0 ini digunakan oleh pabrik-pabrik besar,
