@@ -34,7 +34,3 @@ Keamanan adalah tantangan terbesar yang harus siap dihadapi industri 4.0. Penggu
 * **Tenaga Kerja**
 
 Adopsi industry 4.0 dapat menyebabkan banyaknya tenaga kerja manusia yang digantikan oleh mesin. Hal ini dapat memicu meningkatnya pengangguran. Maka dari itu diperlukan pendidikan yang dapat menompang generasi selanjutnya untuk dapat memenuhi *skill* yang dibutuhkan di industri 4.0.
-
-Industri 4.0 sudah jelas adalah kemajuan yang sangat membantu industri untuk dapat mengoptimasi semua kebutuhan produksi sehingga mempermudah perekonomian untuk berkembang. Tidak hanya itu, calon kostumer juga akan merasakan banyakannya variasi sehingga mudah untuk mencari dan memilih produk yang sesuai dengan kebutuhannya.
-
-Revolusi industry 4.0 akan membawa banyak kemudahan, tetapi tetap akan ada tantangan-tantangan yang harus siap dihadapi. Selain dari tantangan-tantangan tersebut, secara garis besar industry 4.0 adalah sebuah kemajuan yang revolusioner.
