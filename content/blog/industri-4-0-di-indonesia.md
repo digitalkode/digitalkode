@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: INDUSTRI 4.0 DI INDONESIA
+title: REVOLUSI INDUSTRI 4.0
 authors:
   - MUHAMAD FAISAL
 draft: true
