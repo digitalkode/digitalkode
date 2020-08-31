@@ -3,7 +3,7 @@ layout: blog
 title: REVOLUSI INDUSTRI 4.0
 authors:
   - MUHAMAD FAISAL
-draft: true
+draft: false
 date: 2020-08-27T14:40:14.025Z
 thumbnail: /images/uploads/2.jpg
 tags:
