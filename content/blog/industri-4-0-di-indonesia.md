@@ -19,4 +19,8 @@ sebelum saya bahas lebis jauh lagi kita bahas pengertiannya dulu yuuu
 
 > **Revolusi Industri 4.0 adalah** perubahan sistem kerja manusia yang di bantu oleh program komputer yang menghasilkan alat produksi yang canggih.
 
-lebih detailnya dari revolusi industri 4.0 beberapa hal produksi yang tadinya sulit lama dengan adanya sistem industri 4.0 jadi lebih mudah cepat dan kalian harus ingat guysss bahwa dengan kita menerapkan sistem industri 4.0 ini mengeluarkan biaya yang sangat besar guys. biasanya sistem industri 4.0 ini digunakan oleh pabrik-pabrik besar,
+lebih detailnya dari revolusi industri 4.0 beberapa hal produksi yang tadinya sulit lama dengan adanya sistem industri 4.0 jadi lebih mudah, cepat dan kalian harus ingat guysss bahwa dengan kita menerapkan sistem industri 4.0 ini mengeluarkan biaya yang sangat besar guys. biasanya sistem industri 4.0 ini digunakan oleh pabrik-pabrik besar.
+
+Ciri dari revolusi industri 4.0 adalah penggunaan otomasi digital pada semua kegiatan bisnis. Masyarakat seringkali merasakan perubahan ini sebagai bentuk kemudahan dalam bertransaksi keuangan.
+
+Harus kalian pahami melakukan inovasi dan mengikuti perubahan tidak selalu mudah. [](https://www.jurnal.id/blog/6-strategi-perusahaan-menghadapi-era-revolusi-industri-4-0/)Industri 4.0 bisa diartikan sebuah peluang dan ancaman dalam satu waktu.
