@@ -72,3 +72,4 @@ Paginate = 6
   tag = "tags"
 
 enableEmoji = true
+disableHugoGeneratorInject = true
