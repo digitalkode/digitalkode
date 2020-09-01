@@ -2,7 +2,7 @@ theme = "digitalkode-hugo"
 
 # Override these settings with your own
 title = "Digitalkode"
-languageCode = "en-us"
+languageCode = "id-ID"
 baseURL = "https://www.digitalkode.com/"
 copyright = "© {year}"
 
