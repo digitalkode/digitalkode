@@ -6,6 +6,9 @@ authors:
 draft: true
 date: 2020-09-02T02:32:22.825Z
 thumbnail: /images/uploads/group-1.png
+tags:
+  - Website
+  - Programmer
 ---
 Hallo sobat digital kode kali ini saya akan menjelaskan tentang website dan kegunaannya 
 
