@@ -5,7 +5,7 @@ authors:
   - MUHAMAD FAISAL
 draft: false
 date: 2020-09-02T02:32:22.825Z
-thumbnail: /images/uploads/group-1.png
+thumbnail: /images/uploads/group-1-2-.png
 tags:
   - Website
   - Programmer
