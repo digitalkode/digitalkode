@@ -3,7 +3,7 @@ layout: blog
 title: "PHP SERIES #7 : Komentar Pada PHP"
 authors:
   - Ridwan
-draft: true
+draft: false
 date: 2020-09-02T00:45:01.792Z
 thumbnail: /images/uploads/php-series-7.png
 tags:
