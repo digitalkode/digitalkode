@@ -14,15 +14,15 @@ Hallo sobat digitalkode, kembali lagi nih di series terfavorit hehe, diseries ka
 
 ## Assignment
 
-Seperti yang sudah dibahas pad series PHP sebelumya, bahwa proses pembelrian suatu nilai kepada suatu variabel diistilahkan **assignment.** Kita lihat kembaliyuk script yang sudah kita buat sebelumnya
+Seperti yang sudah dibahas pada series PHP sebelumya, bahwa proses pemberian suatu nilai kepada suatu variabel diistilahkan **assignment.** Kita lihat kembali yuk script yang sudah kita buat sebelumnya
 
 ```
 <?php
 
-$teks = "Hello World!";
-$sebuah_bilangan = 4;
-$bilanganYangLain = 8.567;
-$teks2 = $teks;
+$teks = "Hello World!"; //statement 1
+$sebuah_bilangan = 4; //statement 2
+$bilanganYangLain = 8.567; //statement 3
+$teks2 = $teks; //statement 4
 
 echo $teks;
 echo "<br />" . $sebuah_bilangan;
@@ -31,7 +31,7 @@ echo "<br />Isi dari variabel \$teks2 adalah : " . $teks2;
 ?>
 ```
 
-Statement yang saya blok tebal itu merupakan contoh assigment. apakah proses assignment hanya berupa bentuk tersebut? yaitu $namaVariabel = nilai; saja ? ohh tenyata tidak hanya bentuk tersebut. kita juga bisa membuat proses assignment kedalam bentuk lain, misalnya :
+Statement yang saya kasih komentar itu merupakan contoh assigment. apakah proses assignment hanya berupa bentuk tersebut? yaitu $namaVariabel = nilai; saja ? ohh tenyata tidak hanya bentuk tersebut. kita juga bisa membuat proses assignment kedalam bentuk lain, misalnya :
 
 ```
 <?php
