@@ -45,7 +45,7 @@ Saya akan jelaskan tentang contoh variabel diatas:
 
 ### Menampilkan Nilai Variabel
 
-sobat digitalkode, untuk menampilkan nilai yang telah tersimpan dalam variabel, kita gunakan echo.  Berikut ini contohnya:
+Sobat digitalkode, untuk menampilkan nilai yang telah tersimpan dalam variabel, kita gunakan echo.  Berikut ini contohnya:
 
 ```phtml
 <?php
