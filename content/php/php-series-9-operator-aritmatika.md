@@ -58,7 +58,7 @@ Sobat digitalkode, harap hati-hati dalam menggunakan operator aritmatika, teruta
 
 Apabila script diatas dijalankan, maka hasil yang akan muncul bukan 29, tapi 27. kenapa? kok gitu? Karena operasi aritmatika yang dikerjakan terlebih dahulu adalah perkalian ( * ). kenapa? Perkalian memiliki tingakat presedensi yang tinggi daripada + dan -. Setelah perkalian terus kemana? setelah perkalian terus ke + atau -. keduanya memiliki tingakt presedensi yang sama. Nahh kalau gitu, yang dikerjakan dahulu adalah yang terletak di paling kiri dulu yaitu +.
 
-Sekarang, bagaimana dengan operator pembagi ( / ) ? Operator ini memiliki tingkat presedensi yang sama dengan ( \* ). Keduanya memiliki tingakt presedensi yang lebih tinggi daripada + dan -. Operator modulus ( % ) juga demikian, sama levelnya dengan \* dan /.
+> Sekarang, bagaimana dengan operator pembagi ( / ) ? Operator ini memiliki tingkat presedensi yang sama dengan ( \* ). Keduanya memiliki tingakt presedensi yang lebih tinggi daripada + dan -. Operator modulus ( % ) juga demikian, sama levelnya dengan \* dan /.
 
 Teruss.... dari script diatas, misalkan kita ingin yang dikerjakan itu yang penjumlahan dulu, gimana tuh? Waktu SD masih inget kan waktu pelajaran matematika, kita berikan tanda kurung.
 
@@ -72,6 +72,6 @@ Teruss.... dari script diatas, misalkan kita ingin yang dikerjakan itu yang penj
 
 Faham ya...? semoga faham yaa..
 
-Sampai sini dulu series kali ini, di series berikutnya saya akan menjelaskan tentang kombinasi operatir aritmatik dan assignment. pentengin terus web digitalkode di series PHP...
+Sampai sini dulu series kali ini, di series berikutnya saya akan menjelaskan tentang kombinasi operator aritmatika dan assignment. pantengin terus web digitalkode di series PHP yaa...
 
 sekian series kali ini, dan terimakasih.
