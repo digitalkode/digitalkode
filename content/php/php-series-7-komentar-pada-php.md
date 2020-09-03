@@ -17,7 +17,7 @@ Nah, seperti halnya bahasa pemrograman yang lain, komentar dalam suatu kode PHP 
 Komentar pada PHP ini ada dua cara, yaitu :
 
 1. Menggunakan tanda **//** didepan teks komentar. Perintah ini hanya bisa untuk komentar satu baris aja nihh
-2. Menggunakan tanga **/*** didepan teks komentar dan diakhiri dengan **\*/** . Kalo perintah ini bisa digunakan untuk komentar yang lebih dari satu beris.
+2. Menggunakan tanga **/*** didepan teks komentar dan diakhiri dengan **\*/** . Kalo perintah ini bisa digunakan untuk komentar yang lebih dari satu baris.
 
 **Contoh komentar satu baris seperti script dibawah ini  :**
 
@@ -27,7 +27,7 @@ Komentar pada PHP ini ada dua cara, yaitu :
 ?>
 ```
 
-**Dan ini contoh komentar lebih dari satu beris sperti script dibawah ini :**
+**Dan ini contoh komentar lebih dari satu baris sperti script dibawah ini :**
 
 ```
 <?php 
