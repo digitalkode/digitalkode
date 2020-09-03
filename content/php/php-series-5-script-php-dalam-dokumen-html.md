@@ -3,7 +3,7 @@ layout: blog
 title: "PHP SERIES #5 : Script PHP dalam Dokumen HTML"
 authors:
   - Ridwan
-draft: true
+draft: false
 date: 2020-08-31T06:24:03.095Z
 thumbnail: /images/uploads/php-series-5.png
 tags:
