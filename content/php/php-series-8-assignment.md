@@ -3,7 +3,7 @@ layout: blog
 title: "PHP SERIES #8 : Assignment"
 authors:
   - Ridwan
-draft: true
+draft: false
 date: 2020-09-02T01:14:39.420Z
 thumbnail: /images/uploads/php-series-8.png
 tags:
