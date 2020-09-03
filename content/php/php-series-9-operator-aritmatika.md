@@ -14,13 +14,13 @@ Hallo sobat digitalkode, kembali lagi di series terfavorit. Sekarang saya akan m
 
 ### Operator Aritmatika
 
-Dalam bahasa pemrograman secara umum, operator digunakan untuk memanipulasi atau melakukan proses perhitungan pada suatu nilai. Ada beberapa macam operator yang bisa digunakan, diantaranya operator aritmatik, operator penggabungan string dan operator logika.
+Dalam bahasa pemrograman secara umum, operator digunakan untuk memanipulasi atau melakukan proses perhitungan pada suatu nilai. Ada beberapa macam operator yang bisa digunakan, diantaranya operator aritmatika, operator penggabungan string dan operator logika.
 
-Untuk operator penggabungan string kita sudah pernah gunakan di series PHP sebelumnya yaitu menggunakan tanda titik atau dot ( . ). Operator logika akan kita bahas nanti di series PHP kedepannya yaa... karena operator logika bersangatan dengan statement kontrol. Sekarang kita fokus ke operator aritmatik yaa.
+Untuk operator penggabungan string kita sudah pernah gunakan di series PHP sebelumnya yaitu menggunakan tanda titik atau dot ( . ). Operator logika akan kita bahas nanti di series PHP kedepannya yaa... karena operator logika bersangkutan dengan statement kontrol. Sekarang kita fokus ke operator aritmatika yaa.
 
-> Operator aritmatik digunakan untuk operasi perhitungan yang melibatkan nilai berupa bilangan. Namun bisa pula diberikan pada tring, namun string yang berupa bilangan.
+> Operator aritmatika digunakan untuk operasi perhitungan yang melibatkan nilai berupa bilangan. Namun bisa pula diberikan pada string, namun string yang berupa bilangan.
 
-Ada beberapa macam operator aritmatik, diantaranya adalah :
+Ada beberapa macam operator aritmatika, diantaranya adalah :
 
 ![](/images/uploads/operator.png "Operator")
 
@@ -46,7 +46,7 @@ Sobat digitalkode faham kan mengenai script diatas? Tingal jalankan dan lihat ha
 
 ### Tingakat Presedensi
 
-Sobat, harap hati-hati dalam menggunakan operator aritmatik, terutama jika kita menggunakan lebih dari satu opertor yang berbeda dalam satu statement perhitungan, contohnya script berikut :
+Sobat digitalkode, harap hati-hati dalam menggunakan operator aritmatika, terutama jika kita menggunakan lebih dari satu opertor yang berbeda dalam satu statement perhitungan, contohnya script berikut :
 
 ```
 <?php
@@ -56,7 +56,7 @@ Sobat, harap hati-hati dalam menggunakan operator aritmatik, terutama jika kita 
 ?>
 ```
 
-Apabila script diatas dijalankan, maka hasil yang akan muncul bukan 29, tapi 27. kenapa? kok gitu? Karena operasi aritmatik yang dikerjakan terlebih dahulu adalah perkalian ( * ). kenapa? Perkalian memiliki tingakat presedensi yang tinggi daripada + dan -. Setelah perkalian terus kemana? setelah perkalian terus ke + atau -. keduanya memiliki tingakt presedensi yang sama. Nahh kalau gitu, yang dikerjakan dahulu adalah yang terletak di paling kiri dulu yaitu +.
+Apabila script diatas dijalankan, maka hasil yang akan muncul bukan 29, tapi 27. kenapa? kok gitu? Karena operasi aritmatika yang dikerjakan terlebih dahulu adalah perkalian ( * ). kenapa? Perkalian memiliki tingakat presedensi yang tinggi daripada + dan -. Setelah perkalian terus kemana? setelah perkalian terus ke + atau -. keduanya memiliki tingakt presedensi yang sama. Nahh kalau gitu, yang dikerjakan dahulu adalah yang terletak di paling kiri dulu yaitu +.
 
 Sekarang, bagaimana dengan operator pembagi ( / ) ? Operator ini memiliki tingkat presedensi yang sama dengan ( \* ). Keduanya memiliki tingakt presedensi yang lebih tinggi daripada + dan -. Operator modulus ( % ) juga demikian, sama levelnya dengan \* dan /.
 
