@@ -3,7 +3,7 @@ layout: blog
 title: "HTML 5 SERIES #10 : HTML Form"
 authors:
   - Fliw
-draft: true
+draft: false
 date: 2020-08-29T14:15:20.684Z
 thumbnail: /images/uploads/instagram-post-2-7-.jpg
 tags:
@@ -86,8 +86,6 @@ selain itu, ada juga atribut yang dapat diaplikasikan untuk memberi **aturan** p
 * **placeholder** : yaitu atribut untuk menampilkan teks sementara, ketika field belum diisi oleh user.
 * **value** : yaitu atribut untuk mengisi nilai si field secara default.
 
-
-
 ### Let's Ngoding
 
 tulislah kode berikut di code editor kalian :
@@ -100,42 +98,16 @@ tulislah kode berikut di code editor kalian :
   <body>
     <h1>Belajar HTML Forms bersama digitalkode!</h1>
     <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
-    <form action="regist.php" method="POST">
-      <fieldset>
-        <legend>Registrasi</legend>
-        <p>
-            <label>Nama:</label>
-            <input type="text" name="nama" placeholder="tulis nama..." />
-        </p>
+    <form action="daftar.php" method="POST">
+        <fieldset>
+        <legend>Daftar user</legend>
         <p>
             <label>Username:</label>
-            <input type="text" name="username" placeholder="tulis username..." />
-        </p>
-        <p>
-            <label>Email:</label>
-            <input type="email" name="email" placeholder="tulis email..." />
+            <input type="text" name="username" placeholder="Masukkan username" />
         </p>
         <p>
             <label>Password:</label>
-            <input type="password" name="password" placeholder="Passowrd..." />
-        </p>
-        <p>
-            <label>Jenis kelamin:</label>
-            <label><input type="radio" name="jenis_kelamin" value="laki-laki" /> Laki-laki</label>
-            <label><input type="radio" name="jenis_kelamin" value="perempuan" /> Perempuan</label>
-        </p>
-        <p>
-            <label>Agama:</label>
-            <select name="agama">
-                <option value="islam">Islam</option>
-                <option value="kristen">Kristen</option>
-                <option value="hindu">Hindu</option>
-                <option value="budha">Budha</option>
-            </select>
-        </p>
-        <p>
-            <label>Biografi:</label>
-            <textarea name="biografi"></textarea>
+            <input type="password" name="password" placeholder="Masukkan password" />
         </p>
         <p>
             <input type="submit" name="submit" value="Daftar" />
@@ -156,8 +128,115 @@ sekarang coba fokus ke code diatas, dapat dilihat bahwa kita membuat 3 biji form
 * password yang bertipe password dan nama variabelnya yaitu password.
 * submit yang bertipe submit.
 
-semua field diatas dibungkus dalam tag `fieldset` yang mana `fieldset `itu sendiri diberi judul oleh `<legend> `
+semua field diatas dibungkus dalam tag `fieldset` yang mana `fieldset`itu sendiri diberi judul oleh `<legend>`
 
 dan kedua field input disana diberi 2 atribut yaitu placeholder dan value.
 
 ### advanced mode :sunglasses:
+
+berikut adalah contoh form HTML yang termasuk kompleks :
+
+```html
+<html>
+  <head>
+    <title>Belajar HTML Forms Digitalkode</title>
+  </head>
+  <body>
+    <h1>Belajar HTML Forms bersama digitalkode!</h1>
+    <p>Tempat berbagai macam <b>tutorial</b> <i>pemograman</i> secara <u>gratis!</u></p>
+    <form action="regist.php" method="POST">
+      <!--mengumpulkan semua field dalam 1 fieldset-->
+      <fieldset>
+        <!-- memberi judul fieldset -->
+        <legend>Registrasi</legend>
+        <!-- input type text -->
+        <p>
+            <label>Nama:</label>
+            <input type="text" name="nama" placeholder="tulis nama..." />
+        </p>
+        <!-- input type text -->
+        <p>
+            <label>Username:</label>
+            <input type="text" name="username" placeholder="tulis username..." />
+        </p>
+        <!-- input type email -->
+        <p>
+            <label>Email:</label>
+            <input type="email" name="email" placeholder="tulis email..." />
+        </p>
+        <!-- input type nomor -->
+        <p>
+          <label>nomor telepon:</label>
+          <input type="number" name="telepon" placeholder="tulis nomor..." />
+        </p>
+        <!-- input type tanggal -->
+        <p>
+            <label>tanggal lahir:</label>
+            <input type="date" name="date" placeholder="tulis tanggal..." />
+        </p>
+        <!-- input type password -->
+        <p>
+            <label>Password:</label>
+            <input type="password" name="password" placeholder="tulis password..." />
+        </p>
+        <!-- input type radio -->
+        <p>
+            <label>Jenis kelamin:</label>
+            <label><input type="radio" name="jenkel" value="laki-laki" /> Laki-laki</label>
+            <label><input type="radio" name="jenkel" value="perempuan" /> Perempuan</label>
+        </p>
+        <!-- input type select -->
+        <p>
+            <label>Agama:</label>
+            <select name="agama">
+                <option value="islam">Islam</option>
+                <option value="kristen">Kristen</option>
+                <option value="hindu">Hindu</option>
+                <option value="budha">Budha</option>
+            </select>
+        </p>
+        <!-- input type text area -->
+        <p>
+            <label>Biografi:</label>
+            <textarea name="biografi"></textarea>
+        </p>
+        <!-- input type file -->
+        <p>
+          <label>Foto KTP :</label>
+          <input type="file" name="foto">
+        </p>
+        <!-- input type checkbox -->
+        <p>
+          <label>saya ingin pemberitahuan via email :</label>
+          <input type="checkbox" name="pemberitahuan_email" value="Email_notif">
+        </p>
+        <!-- input type checkbox -->
+        <p>
+          <label>saya ingin pemberitahuan via nomor telepon :</label>
+          <input type="checkbox" name="pemberitahuan_telepon" value="telepon_notif">
+        </p>
+        <!-- input type reset -->
+        <p>
+            <input type="reset">
+        </p>
+        <!-- input type submit -->
+        <p>
+            <input type="submit" name="submit" value="Daftar" />
+        </p>
+        </fieldset>
+    </form>
+  </body>
+</html> 
+```
+
+output nya :
+
+![](/images/uploads/annotation-2020-08-30-221636.png)
+
+hampir semua tag sudah kita include disana, termasuk juga penambahan seperti tag `<select>.` tag `<select>` mirip seperti radio hanya saja bentuknya dropdown, untuk fungsionalitas tetep saja sama, yaitu hanya dapat memilih 1 opsi.
+
+demikian tutorial HTML Series ke #10, terimakasih telah mengikuti tutorial digitalkode! keepSpiritNgodingGaes!
+
+
+
+**\#keepLearning_keepNgoding**

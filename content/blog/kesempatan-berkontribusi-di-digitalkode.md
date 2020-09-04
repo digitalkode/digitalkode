@@ -14,9 +14,9 @@ Hai sobat digitalkode, dikesempatan kali ini saya akan membagikan cara berkontri
 
 Kita tahu, bahwa komunitas dunia IT di Indonesia sangatlah luas, dan kekuatan dari komunitas sangatlah berperan di Dunia IT Indonesia. Tanpa sebuah komunitas, kita bisa apa? komunitas sangat membantu kita.
 
-Nah karena faktor tersebut, digitalkode ingin menjalin hubungan yang erat dengan sesama developer, mau itu pengguna React, Vue, Angular, itu tidak akan memisahkan hubungan kita, eaa :haha:
+Nah karena faktor tersebut, digitalkode ingin menjalin hubungan yang erat dengan sesama developer, mau itu pengguna React, Vue, Angular, itu tidak akan memisahkan hubungan kita, eaa :satisfied:
 
-# HUGO + Netlify CMS = LOVE
+# HUGO + Netlify CMS = :heart:
 
 Oke, apa itu hugo, dan apa itu netlify cms?
 
