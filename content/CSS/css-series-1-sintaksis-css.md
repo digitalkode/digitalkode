@@ -3,7 +3,7 @@ layout: blog
 title: "CSS SERIES #1 : SINTAKSIS CSS"
 authors:
   - Rizal
-draft: true
+draft: false
 date: 2020-09-08T02:27:55.302Z
 thumbnail: /images/uploads/css-series-1.png
 tags:
