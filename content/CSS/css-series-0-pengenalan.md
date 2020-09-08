@@ -2,7 +2,7 @@
 layout: blog
 title: "CSS SERIES #0 : PENGENALAN"
 authors:
-  - test
+  - Rizal
 draft: true
 date: 2020-09-08T01:36:23.339Z
 thumbnail: /images/uploads/css-series-0.png
@@ -22,11 +22,9 @@ Eits, tidak hanya itu loh. Dengan CSS, sobat juga bisa mengubah tata letak penem
 
 Keren kan? Padahal sebetulnya semua itu merupakan sebagian kecil dari apa yang CSS bisa lakukan. Oleh karena itu, selama series ini, mimin akan menuntun sobat untuk mempelajari CSS agar impian untuk menjadi seorang web developer semakin dekat.
 
-Oiya, untuk awalan sobat bisa copy seluruh sintaks CSS dan HTML di bawah ini dalam satu file berformat .html menggunakan text editor seperti visual studio code atau notepad untuk para mastah :laugh:, kemudian sobat bisa buka file tersebut di browser untuk melihat hasilnya.
+Oiya, untuk awalan sobat bisa copy seluruh sintaks CSS dan HTML di bawah ini dalam satu file berformat `.html` menggunakan text editor seperti visual studio code atau notepad untuk para mastah :rofl:, kemudian sobat bisa buka file tersebut di browser untuk melihat hasilnya.
 
 CSS:
-
-
 
 ```
 <style>
@@ -41,7 +39,6 @@ CSS:
         box-shadow: 0px 8px 0px #4B0082;
     }
 </style>
-
 ```
 
 HTML:
@@ -58,6 +55,6 @@ Pusingkah liat codenya? Maybe yes or maybe no. Tapi tenang aja, sobat pasti akan
 
 Oke, untuk kali ini mimin cukupkan dulu dari pengenalan tentang CSS. Ini sedikit quote yang mimin harap bisa menginspirasi sobat semua.
 
-Melakukan hal sekecil apapun, jauh lebih baik daripada sekedar berkeinginan
+> Melakukan hal sekecil apapun, jauh lebih baik daripada sekedar berkeinginan
 
 Untuk selanjutnya mimin akan coba untuk kenalkan css lebih dalam, jadi stay update yaa.
