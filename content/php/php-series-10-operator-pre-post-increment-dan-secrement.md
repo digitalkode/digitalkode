@@ -14,16 +14,12 @@ Hallo sobat digitalkode, kembali lagi di web Digitalkode di series terfavorit ni
 
 Operator ini hanya digunakan pada proses increment maupun decrement tingkat 1.  Makdsudnya increment dipakai untuk menambah variabel sebanyak 1 angka, dan decrement digunakan untuk mengurangi variabel sebanyak 1 angka.
 
-
-
 | **Contoh** | **Nama**       | **Hasil**                                          |
 | ---------- | -------------- | -------------------------------------------------- |
 | ++$a       | Pre-increment  | Menambah nilai $a sebanyak 1, lalu kirim nilai $a  |
 | $a++       | Post-increment | Kirim nilai $a, lalu menambah nilai $a sebanyak 1  |
 | \--$a      | Pre-decrement  | Mengurang nilai $a sebanyak1, lalu kirimi nilai $a |
 | $a--       | Post-decrement | Kirim nilai $a, lalu mengurang nilai $a sebanyak 1 |
-
-
 
 Contoh operator increment :
 
@@ -36,8 +32,6 @@ echo "Nilai A yang baru adalah : ". $a;
 ?>
 ```
 
-
-
 Contoh operator decrement:
 
 ```phtml
@@ -49,6 +43,6 @@ echo "Nilai A yang baru adalah : ". $a;
 ?>
 ```
 
-Sampai sini penjelasan mengenai Operatr Increment dan Decrement, Semoga bermanfaat, di series PHP berikutnya saya akan menjelaskan mengenai Post dan Get.. penasaran kan? pantengin terus webnya digitalkode..
+Sampai sini penjelasan mengenai Operator Increment dan Decrement, Semoga bermanfaat, di series PHP berikutnya saya akan menjelaskan mengenai Post dan Get.. penasaran kan? pantengin terus webnya digitalkode..
 
 sekian series kali ini, dan terimakasih
