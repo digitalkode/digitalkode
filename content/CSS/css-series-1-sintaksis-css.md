@@ -16,7 +16,7 @@ Halo calon koders, dalam tutorial bagian pertama ini mimin akan membahas tentang
 
 Agar kode CSS dapat dikenali oleh browser, sobat harus menyimpan kodenya ke dalam tag HTML `<style></style>` karena tag tersebut digunakan khusus untuk menyimpan seluruh kode CSS.
 
-Biasanya, para programmer menyimpan tag `<style></style>` di dalam tag `<head></head>` karena beberapa alasan, salah satunya adalah karena tag head tersebutberfungsi sebagai tempat menyimpan metadata.
+Biasanya, para programmer menyimpan tag `<style></style>` di dalam tag `<head></head>` karena beberapa alasan, salah satunya adalah karena tag head tersebut berfungsi sebagai tempat menyimpan metadata.
 
 ## Penulisan sintaks CSS
 
@@ -58,6 +58,6 @@ Dan hasilnya akan menjadi seperti ini.
 
 ![html li result](/images/uploads/screenshot_2.png "html li result")
 
-Simpel kan? Dengan mengerti sintaks di atas, agan sudah mengerti cara membuat kode CSS secara hampir keseluruhan. Oleh karena itu, selamat! agan sudah memahami CSS walaupun baru tiba di tutorial pertama :D.
+Simpel kan? Dengan mengerti sintaks di atas, sobat sudah mengerti cara membuat kode CSS secara hampir keseluruhan. Oleh karena itu, selamat! sobat sudah memahami CSS walaupun baru tiba di tutorial pertama :laugh:.
 
 Untuk selanjutnya kita akan mempelajari bagaimana kita bisa mengganti warna pada beberapa bagian CSS yang umum dipakai, jadi stay update dari tutorial ini.
