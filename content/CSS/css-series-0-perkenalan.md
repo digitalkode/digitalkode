@@ -3,7 +3,7 @@ layout: blog
 title: "CSS SERIES #0 : PERKENALAN"
 authors:
   - Rizal
-draft: true
+draft: false
 date: 2020-09-08T02:10:07.512Z
 thumbnail: /images/uploads/css-series-0.png
 tags:
