@@ -16,7 +16,7 @@ sessions:
   - path: /css
     title: CSS Series
     image: /images/uploads/cssdepan.jpg
-    status: "Coming Soon"
+    status: "On Going"
   - path: /tailwind
     title: TailWind Series
     image: /images/uploads/tailwinddepan.jpg
