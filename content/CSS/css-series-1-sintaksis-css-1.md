@@ -10,7 +10,7 @@ tags:
   - CSS
   - SERIES
 ---
-Halo calon koders, selamat datang di series tutorial kedua dari CSS ini. Sekarang, setelah sekian lama yang kita tunggu, akhirnya kita akan mulai membahas atribut CSS pertama kita dan tema pertama mimin adalah text color dan background color.
+Halo calon koders, selamat datang di series tutorial kedua dari CSS ini. Sekarang, setelah sekian lama yang kita tunggu, akhirnya kita akan mulai membahas atribut CSS pertama kita dan tema pertama mimin adalah **warna teks (color)** dan **warna latar (background-color)**.
 
 ## Color
 
