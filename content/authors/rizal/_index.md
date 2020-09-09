@@ -13,4 +13,4 @@ social:
   # - name: instagram
   #   url: https://instagram.com/dihak_
 ---
-Random Cat Across the Internet
+Random Cat Across the Internet :cat:
