@@ -76,6 +76,6 @@ Kalau sudah sesuai, maka hasilnya akan seperti berikut:
 
 ![](/images/uploads/screenshot_3.png)
 
-Akhirnya, sekarang kita bisa mengubah warna teks dan latar sebuah element :D.
+Akhirnya, sekarang kita bisa mengubah warna teks dan latar sebuah element :smile:.
 
 Untuk tutorial kedua ini mimin cukupkan sampai disini. Selanjutnya, mimin akan perlihatkan macam-macam cara penulisan code CSS. So, stay ‘till the series end :punch:.
