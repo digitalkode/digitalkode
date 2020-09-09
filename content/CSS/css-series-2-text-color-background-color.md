@@ -49,7 +49,7 @@ Oiya, kalau belum tau, value warna dalam CSS itu bisa macam-macam lho. Sebelumny
 
 Biasanya yang lebih umum digunakan adalah RGB, RGBA, warna nama dan warna heksadesimal. Namun, untuk menggunakan warna RGB, RGBA, dan heksadesimal memerlukan tool palet warna agar bisa menggunakannya secara maksimal. Biasanya mimin pake color pickernya situs w3schools buat cari warnanya. Berikut link-nya <https://www.w3schools.com/colors/colors_picker.asp>.
 
-Untuk value yang sudah di sebutkan di atas sebetulnya tidak sebatas hanya untuk property **color** dan **background-color** saja. Selama sebuah property memiliki opsi untuk memasukkan warna, maka value-nya bisa diisi menggunakan cara-cara tersebut.
+Untuk value yang sudah di sebutkan di atas sebetulnya tidak sebatas hanya untuk property color dan background-color saja. Selama sebuah property memiliki opsi untuk memasukkan warna, maka value-nya bisa diisi menggunakan cara-cara tersebut.
 
 ## Let’s Code
 
