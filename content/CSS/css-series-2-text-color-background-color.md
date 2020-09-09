@@ -42,14 +42,14 @@ Oiya, kalau belum tau, value warna dalam CSS itu bisa macam-macam lho. Sebelumny
 
 * **Warna nama**, seperti `red`, `green`, `blue`, `yellow`, `white`, `black`, `gray`.
 * **Warna heksadesimal**, seperti `#FFFFFF`, `#000000`, `#FF0000`.
-* **Warna RGB**, yang berarti Red, Green, Blue. Code penggunaannya yaitu ```rgb(``red value``green value``blue value```.
-* **Warna RGBA**, yang berarti Red, Green, Blue, Alpha (tingkat transparan). Code penggunaannya yaitu ```rgba(``red value``green value``blue value, alpha value```
-* **Warna HSL**, yang berarti Hue, Saturation, Lightness. code penggunaannya yaitu ```hsl(hue``value``value``value```
-* **Warna HSLA**, yang berarti Hue, Saturation, Lightness, Alpha. Code penggunaannya yaitu ```hsla(hue``value``value``value, alpha value```
+* **Warna RGB**, yang berarti Red, Green, Blue. Code penggunaannya yaitu `rgb(red value, green value, blue value)`.
+* **Warna RGBA**, yang berarti Red, Green, Blue, Alpha (tingkat transparan). Code penggunaannya yaitu `rgba(red value, green value, blue value, alpha value)`
+* **Warna HSL**, yang berarti Hue, Saturation, Lightness. code penggunaannya yaitu `hsl(hue value, saturation value, lightness value)`
+* **Warna HSLA**, yang berarti Hue, Saturation, Lightness, Alpha. Code penggunaannya yaitu `hsla(hue value, saturation value, lightness value, alpha value)`
 
 Biasanya yang lebih umum digunakan adalah RGB, RGBA, warna nama dan warna heksadesimal. Namun, untuk menggunakan warna RGB, RGBA, dan heksadesimal memerlukan tool palet warna agar bisa menggunakannya secara maksimal. Biasanya mimin pake color pickernya situs w3schools buat cari warnanya. Berikut link-nya <https://www.w3schools.com/colors/colors_picker.asp>.
 
-Untuk value yang sudah di sebutkan di atas sebetulnya tidak sebatas hanya untuk property **color** dan **background-color** saja. Selama sebuah property memiliki opsi untuk memasukkan warna, maka value-nya bisa diisi menggunakan cara-cara tersebut.
+Untuk value yang sudah di sebutkan di atas sebetulnya tidak sebatas hanya untuk property color dan background-color saja. Selama sebuah property memiliki opsi untuk memasukkan warna, maka value-nya bisa diisi menggunakan cara-cara tersebut.
 
 ## Let’s Code
 
