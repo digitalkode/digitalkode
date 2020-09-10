@@ -12,7 +12,7 @@ tags:
 ---
 Hello para calon koders, selamat datang kembali di series CSS ini. Seperti yang mimin pernah janjikan pada seri sebelumnya, mimin akan membahas tentang macam-macam letak kita bisa menuliskan code CSS.
 
-CSS sebetulnya dibagi menjadi tiga cara penulisan, yakni internal, eksternal, dan *inline*.
+CSS sebetulnya dibagi menjadi tiga cara penulisan, yakni internal, eksternal, dan inline.
 
 ## Internal
 
@@ -41,7 +41,7 @@ button{
 }
 ```
 
-Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam satu root path (satu folder) ya dengan css. Kemudian, sobat tambahkan code berikut.
+Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam satu *root path* (satu folder) ya dengan css. Kemudian, sobat tambahkan code berikut.
 
 ```
 <head>
@@ -92,8 +92,8 @@ Kenapa Eksternal dan Internal digabung? Karena penggunaannya kurang lebih sama, 
 Mimin tidak akan menulis kelebihan dari Inline. karena secara pribadi, mimin tidak menyarankan untuk menggunakan Inline karena berikut alasannya:
 
 * Apabila suatu code yang sama digunakan dalam banyak element, maka kita akan kesulitan saat ingin mengubahnya karena harus pindah dari satu element ke element lain dan pastinya memakan ekstra waktu. Padahal udah diberi kemudahan biar bisa mengubah banyak element hanya dengan satu CSS saja. Nikmat apa lagi yang mau kalian dustakan? :smile:
-* Code-nya pasti terlihat buruk karena kita menyatukan code CSS dengan code HTML, apalagi kalo CSS-nya panjang + di banyak HTML. Kasihan banget, kalo sobat mau ngelamar kerja jadi web developer di suatu tempat tapi ternyata saat checking suatu file HTML, code CSS-nya ditulis langsung dalam HTML. Waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
+* Code-nya pasti terlihat buruk karena kita menyatukan code CSS dengan code HTML, apalagi kalo **CSS-nya panjang + ada di banyak HTML**. Kasihan banget, kalo sobat mau ngelamar kerja jadi web developer di suatu tempat tapi ternyata saat checking suatu file HTML, code CSS-nya ditulis langsung dalam HTML. Waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
 
-Jelas kan? Jadi untuk best practice-nya sobat bisa menggunakan CSS secara Eksternal. Atau sobat juga bisa gunakan internal untuk code CSS yang hanya dibutuhkan dalam satu file saja, agar tidak memenuhi size yang eksternal. Sebisa mungkin hindari inline agar tidak membuat kesulitan dalam mengubah code-nya dan menjadi lebih predictable.
+Jelas kan? Jadi untuk *best practice*-nya sobat bisa menggunakan CSS secara Eksternal. Atau sobat juga bisa gunakan internal untuk code CSS yang hanya dibutuhkan dalam satu file saja, agar tidak memenuhi size yang eksternal. Sebisa mungkin hindari inline agar tidak membuat kesulitan dalam mengubah code-nya.
 
 Okeee, cukup sekian dari penjelasan tentang letak penyimpanan CSS, selanjutnya kita akan mulai terjun kembali ke dalam tutorial code CSS kita yang kedua. Jadi tetap ikuti tutorial ini dan semangat :muscle:
