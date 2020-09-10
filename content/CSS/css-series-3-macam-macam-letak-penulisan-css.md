@@ -79,7 +79,7 @@ Untuk preferensi mimin sendiri, menuliskan code CSS akan jauh lebih efisien jika
 Untuk awalan, kita bisa bandingkan dulu kelebihan Eksternal daripada Internal.
 
 * Ukuran file HTML menjadi lebih kecil;
-* Jika kita ingin menggunakan CSS di halaman yang berbeda, kita tinggal import ulang saja tanpa perlu mengetik ataupun copas CSS lagi.
+* Jika kita ingin menggunakan CSS yang sama di halaman yang berbeda, kita tinggal import ulang saja tanpa perlu mengetik ataupun copas CSS lagi.
 
 Namun, Eksternal pun mempunyai kelemahan yang bisa ditangani oleh Internal.
 
