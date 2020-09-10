@@ -50,7 +50,7 @@ Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam sat
 <button>Click Me!</button>
 ```
 
-Ada tiga attribute dalam tag tersebut, penjelasannya sebagai berikut:
+Ada tiga atribut dalam tag tersebut, penjelasannya sebagai berikut:
 
 * **rel**, menentukan bagaimana relasinya antara file HTML kita dengan file yang akan digunakan. Dalam hal ini, stylesheet berarti kita import stylesheet;
 * **type**, berfungsi untuk memberitahukan bagaimana browser sebaiknya mengenali file yang akan digunakan. dalam kasus CSS, kita bisa menghilangkannya dari tag link karena saat atribut **rel** memiliki value stylesheet, maka tag link akan otomatis menganggap bahwa file tersebut CSS, hingga akhirnya code akan menjadi `<link rel=”stylesheet” href=”css-saya.css”/>`;
@@ -60,7 +60,7 @@ Maka saat sobat membuka `view.html`, tampilannya pasti masih sama dengan yang ki
 
 ## Inline
 
-Kalau inline lebih spesifik lagi. Kita menuliskan code CSS di dalam element yang digunakan secara langsung. Penulisan code-nya bisa dimasukkan ke dalam atribut style.
+Kalau inline lebih spesifik lagi. Kita menuliskan code CSS di dalam element yang digunakan secara langsung. Penulisan code-nya bisa dimasukkan ke dalam atribut **style**.
 
 ```
 <button style=”color:white; background-color: #8A2BE2;”>
