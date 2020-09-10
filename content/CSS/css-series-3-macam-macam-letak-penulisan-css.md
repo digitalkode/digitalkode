@@ -96,4 +96,4 @@ Mimin tidak akan menulis kelebihan dari Inline. karena secara pribadi, mimin tid
 
 Jelas kan? Jadi untuk best practice-nya sobat bisa menggunakan CSS secara Eksternal. Atau sobat juga bisa gunakan internal untuk code CSS yang hanya dibutuhkan dalam satu file saja, agar tidak memenuhi size yang eksternal. Sebisa mungkin hindari inline agar tidak membuat kesulitan dalam mengubah code-nya dan menjadi lebih predictable.
 
-Okeee, cukup sekian dari penjelasan tentang letak penyimpanan CSS, selanjutnya kita akan mulai terjun kembali ke dalam tutorial code CSS kita yang kedua. Jadi tetap ikuti tutorial ini dan semangat.
+Okeee, cukup sekian dari penjelasan tentang letak penyimpanan CSS, selanjutnya kita akan mulai terjun kembali ke dalam tutorial code CSS kita yang kedua. Jadi tetap ikuti tutorial ini dan semangat :muscle:
