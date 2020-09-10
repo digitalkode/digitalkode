@@ -53,7 +53,7 @@ Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam sat
 Ada tiga attribute dalam tag tersebut, penjelasannya sebagai berikut:
 
 * **rel**, menentukan bagaimana relasinya antara file HTML kita dengan file yang akan digunakan. Dalam hal ini, stylesheet berarti kita import stylesheet;
-* **type**, berfungsi untuk memberitahukan bagaimana browser sebaiknya mengenali file yang akan digunakan. dalam kasus CSS, kita bisa menghilangkannya dari tag link karena saat atribut **rel** memiliki value stylesheet, maka tag link akan otomatis menganggap bahwa file tersebut CSS, hingga akhirnya code akan menjadi `<link rel=”stylesheet” type=”text/css” href=”css-saya.css”/>`;
+* **type**, berfungsi untuk memberitahukan bagaimana browser sebaiknya mengenali file yang akan digunakan. dalam kasus CSS, kita bisa menghilangkannya dari tag link karena saat atribut **rel** memiliki value stylesheet, maka tag link akan otomatis menganggap bahwa file tersebut CSS, hingga akhirnya code akan menjadi `<link rel=”stylesheet” href=”css-saya.css”/>`;
 * **href,** berarti link yang digunakan untuk mengambil file CSS yang kita buat.
 
 Maka saat sobat membuka `view.html`, tampilannya pasti masih sama dengan yang kita kerjakan sebelumnya.
