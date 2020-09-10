@@ -92,7 +92,7 @@ Kenapa Eksternal dan Internal digabung? Karena penggunaannya kurang lebih sama, 
 Mimin tidak akan menulis kelebihan dari Inline. karena secara pribadi, mimin tidak menyarankan untuk menggunakan Inline karena berikut alasannya:
 
 * Apabila suatu code yang sama digunakan dalam banyak element, maka kita akan kesulitan saat ingin mengubahnya karena harus pindah dari satu element ke element lain dan pastinya memakan ekstra waktu. Padahal udah diberi kemudahan biar bisa mengubah banyak element hanya dengan satu CSS saja. Nikmat apa lagi yang mau kalian dustakan? :smile:
-* Code-nya pasti terlihat buruk karena kita menyatukan code CSS dengan code HTML, apalagi kalo **CSS-nya panjang + ada di banyak HTML**. Kasihan banget, kalo sobat mau ngelamar kerja jadi web developer di suatu tempat tapi ternyata saat checking suatu file HTML, code CSS-nya ditulis langsung dalam HTML. Waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
+* Code-nya pasti terlihat buruk karena kita menyatukan code CSS dengan code HTML, apalagi kalo **CSS-nya panjang + ada di banyak HTML**. Kasihan banget, kalo sobat mau ngelamar kerja jadi web developer di suatu tempat tapi ternyata saat checking suatu file HTML, code CSS-nya ditulis langsung semua dalam HTML. Waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
 
 Jelas kan? Jadi untuk *best practice*-nya sobat bisa menggunakan CSS secara Eksternal. Atau sobat juga bisa gunakan internal untuk code CSS yang hanya dibutuhkan dalam satu file saja, agar tidak memenuhi size yang eksternal. Sebisa mungkin hindari inline agar tidak membuat kesulitan dalam mengubah code-nya.
 
