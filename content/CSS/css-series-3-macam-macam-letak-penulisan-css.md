@@ -18,7 +18,7 @@ CSS sebetulnya dibagi menjadi tiga cara penulisan, yakni **internal**, **ekstern
 
 Penulisan internal tempat letaknya berada dalam tag `<style></style>`. Ya, penggunaannya seperti yang sudah kita gunakan dalam tutorial-tutorial sebelumnya jadi tidak perlu dibahas panjang-panjang.
 
-```css
+```html
 <style>
   button{
     color: white;
