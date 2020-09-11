@@ -76,7 +76,7 @@ Untuk preferensi mimin sendiri, menuliskan code CSS akan jauh lebih efisien jika
 
 ### Eksternal VS Internal
 
-Untuk awalan, kita bisa bandingkan dulu kelebihan Eksternal daripada Internal.
+Sebagai awalan, kita bisa bandingkan dulu kelebihan Eksternal daripada Internal.
 
 * Ukuran file HTML menjadi lebih kecil;
 * Jika kita ingin menggunakan CSS yang sama di halaman yang berbeda, kita tinggal import ulang saja tanpa perlu mengetik ataupun copas CSS lagi.
@@ -89,10 +89,58 @@ Saat setiap view memiliki sebuah CSS yang tidak digunakan oleh view lain, akhirn
 
 Kenapa Eksternal dan Internal digabung? Karena penggunaannya kurang lebih sama, tapi saat berhadapan dengan Inline, bentuknya sudah berbeda.
 
-Mimin tidak akan menulis kelebihan dari Inline. karena secara pribadi, mimin tidak menyarankan untuk menggunakan Inline karena berikut alasannya:
+Kelebihan Inline yakni kita bisa menulisnya langsung di dalam HTML tanpa perlu scrolling sana sini atau menumpuk selector baru (ini menurut mimin sendiri :sweat_smile:). Tapi untuk preferensi secara pribadi, mimin tidak menyarankan untuk menggunakan Inline karena alasan berikut:
 
+* Kita tidak bisa menuliskan code berbentuk pseudo class seperti penggunaan `:hover`, `:focus`, `:active`, dll. Ini akan kita bahas di tutorial selanjutnya nanti.
 * Apabila suatu code yang sama digunakan dalam banyak element, maka kita akan kesulitan saat ingin mengubahnya karena harus pindah dari satu element ke element lain dan pastinya memakan ekstra waktu. Padahal udah diberi kemudahan biar bisa mengubah banyak element hanya dengan satu CSS saja. Nikmat apa lagi yang mau kalian dustakan? :smile:
-* Code-nya pasti terlihat buruk karena kita menyatukan code CSS dengan code HTML, apalagi kalo **CSS-nya panjang + ada di banyak HTML**. Kasihan banget, kalo sobat mau ngelamar kerja jadi web developer di suatu tempat tapi ternyata saat checking suatu file HTML, code CSS-nya ditulis langsung semua dalam HTML. Waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
+* Code-nya pasti terlihat buruk dan menyulitkan karena kita menyatukan style dengan tag-nya. Tapi yang paling parah itu, **code CSS-nya ditulis semua dalam HTML-nya langsung + kebanyakan code-nya sama + CSS-nya panjang + kalau ganti satu, harus di ganti juga di HTML lain.** 
+
+  ```
+  <ul>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 1
+      </a>
+    </li>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 2
+      </a>
+    </li>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 3
+      </a>
+    </li>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 4
+      </a>
+    </li>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 5
+      </a>
+    </li>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 6
+      </a>
+    </li>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 7
+      </a>
+    </li>
+    <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
+      <a href="#" style="text-decoration: none;">
+        ini nomor 8
+      </a>
+    </li>
+  </ul>
+  ```
+
+  Kalo udah liat ini dan disuruh ganti sama atasan, waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
 
 Jelas kan? Jadi untuk *best practice*-nya sobat bisa menggunakan CSS secara Eksternal. Atau sobat juga bisa gunakan internal untuk code CSS yang hanya dibutuhkan dalam satu file saja, agar tidak memenuhi size yang eksternal. Sebisa mungkin hindari inline agar tidak membuat kesulitan dalam mengubah code-nya.
 
