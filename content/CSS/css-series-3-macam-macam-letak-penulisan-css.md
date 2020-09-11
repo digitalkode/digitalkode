@@ -18,7 +18,7 @@ CSS sebetulnya dibagi menjadi tiga cara penulisan, yakni **internal**, **ekstern
 
 Penulisan internal tempat letaknya berada dalam tag `<style></style>`. Ya, penggunaannya seperti yang sudah kita gunakan dalam tutorial-tutorial sebelumnya jadi tidak perlu dibahas panjang-panjang.
 
-```
+```css
 <style>
   button{
     color: white;
@@ -33,7 +33,7 @@ Berbeda dengan Internal, kalau cara Eksternal berarti kita menuliskan code CSS d
 
 Agar file tersebut dapat digunakan oleh HTML yang kita buat, maka kita bisa mereferensikannya dengan menggunakan tag `<link/>`. Penempatannya juga umumnya disimpan di tag head seperti halnya tag style. Sebagai contoh, sobat bisa buat file bernama `css-saya.css` dan masukan code berikut.
 
-```
+```css
 /* kita tidak perlu menambah tag style lagi */
 button{
   color: white;
@@ -43,7 +43,7 @@ button{
 
 Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam satu *root path* atau satu folder ya dengan css. Kemudian, sobat tambahkan code berikut.
 
-```
+```html
 <head>
   <link rel=”stylesheet” type=”text/css” href=”css-saya.css”/>
 </head>
@@ -62,7 +62,7 @@ Apabila sudah dibuat, maka saat sobat membuka `view.html`di browser, tampilannya
 
 Kalau inline lebih spesifik lagi. Kita menuliskan code CSS di dalam element yang digunakan secara langsung. Penulisan code-nya bisa dimasukkan ke dalam atribut **style**.
 
-```
+```html
 <button style=”color:white; background-color: #8A2BE2;”>
   Click Me!
 </button>
@@ -92,10 +92,41 @@ Kenapa Eksternal dan Internal digabung? Karena penggunaannya kurang lebih sama, 
 Kelebihan Inline yakni kita bisa menulisnya langsung di dalam HTML tanpa perlu scrolling sana sini atau menumpuk selector baru (ini menurut mimin sendiri :sweat_smile:). Tapi untuk preferensi secara pribadi, mimin tidak menyarankan untuk menggunakan Inline karena alasan berikut:
 
 * Kita tidak bisa menuliskan code berbentuk pseudo class seperti penggunaan `:hover`, `:focus`, `:active`, dll. Ini akan kita bahas di tutorial selanjutnya nanti.
-* Apabila suatu code yang sama digunakan dalam banyak element, maka kita akan kesulitan saat ingin mengubahnya karena harus pindah dari satu element ke element lain dan pastinya memakan ekstra waktu. Padahal udah diberi kemudahan biar bisa mengubah banyak element hanya dengan satu CSS saja. Nikmat apa lagi yang mau kalian dustakan? :smile:
-* Code-nya pasti terlihat buruk dan menyulitkan karena kita menyatukan style dengan tag-nya. Tapi yang paling parah itu, **code CSS-nya ditulis semua dalam HTML-nya langsung + kebanyakan code-nya sama + CSS-nya panjang + kalau ganti satu, harus di ganti juga di HTML lain.** 
+* Code-nya pasti terlihat buruk dan menyulitkan karena kita menyatukan style dengan tag-nya. Tapi yang paling parah itu, **code CSS-nya ditulis semua dalam HTML-nya langsung + kebanyakan code-nya sama + CSS-nya panjang + kalau ganti satu, harus di ganti juga di HTML lain.**
 
+  Di saat kita bisa menuliskan code sesimpel ini:
+
+  ```html
+  <style>
+    li{
+      color: yellow;
+      background-color: red;
+      font-size: 20px;
+      font-weight: bold;
+      display: block;
+      list-style-type: square;
+    }
+    
+    a{
+      text-decoration: none;
+    }
+  <style>
+
+  <ul>
+    <li>ini nomor 1</li>
+    <li>ini nomor 2</li>
+    <li>ini nomor 3</li>
+    <li>ini nomor 4</li>
+    <li>ini nomor 5</li>
+    <li>ini nomor 6</li>
+    <li>ini nomor 7</li>
+    <li>ini nomor 8</li>
+  </ul>
   ```
+
+  Kita malah mempersulitnya menjadi seperti ini:
+
+  ```html
   <ul>
     <li style="color: yellow; background-color: red; font-size: 20px; font-weight: bold; display: block; list-style-type: square;">
       <a href="#" style="text-decoration: none;">
