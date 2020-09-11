@@ -16,7 +16,7 @@ Halo calon koders, selamat datang di series tutorial kedua dari CSS ini. Sekaran
 
 Untuk mengubah suatu warna teks, kita bisa menggunakan property `color`.
 
-```
+```html
 <style>
   button{
     color: white;
@@ -28,7 +28,7 @@ Untuk mengubah suatu warna teks, kita bisa menggunakan property `color`.
 
 Jika kita ingin merubah warna latar belakang dari suatu element, maka kita bisa menggunakan `background-color`.
 
-```
+```html
 <style>
   button{
     background-color: blue;
@@ -57,7 +57,7 @@ Okaay, setelah sejauh ini kita belajar tentang penggunaan warna, sekarang kita a
 
 CSS:
 
-```
+```html
 <style>
   button{
     color: white;
@@ -68,7 +68,7 @@ CSS:
 
 HTML:
 
-```
+```html
 <button>Click Me!</button>
 ```
 
