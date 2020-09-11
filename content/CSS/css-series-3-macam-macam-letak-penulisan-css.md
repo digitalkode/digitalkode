@@ -91,7 +91,7 @@ Kenapa Eksternal dan Internal digabung? Karena penggunaannya kurang lebih sama, 
 
 Kelebihan Inline yakni kita bisa menulisnya langsung di dalam HTML tanpa perlu scrolling sana sini atau menumpuk selector baru (ini menurut mimin sendiri :sweat_smile:). Tapi untuk preferensi secara pribadi, mimin tidak menyarankan untuk menggunakan Inline karena alasan berikut:
 
-* Kita tidak bisa menuliskan code berbentuk pseudo class seperti penggunaan `:hover`, `:focus`, `:active`, dll. Ini akan kita bahas di tutorial selanjutnya nanti.
+* Kita tidak bisa menuliskan code berbentuk pseudo class jika mengandalkan Inline saja. contoh pseudo class itu seperti penggunaan `:hover`, `:focus`, `:active`, dll. Ini akan kita bahas di tutorial selanjutnya nanti.
 * Code-nya pasti terlihat buruk dan menyulitkan karena kita menyatukan style dengan tag-nya. Tapi yang paling parah itu, **code CSS-nya ditulis semua dalam HTML-nya langsung + kebanyakan code-nya sama dalam setiap tag + CSS-nya panjang + kalau ganti satu, harus di ganti juga di HTML lain.**
 
   Di saat kita bisa menuliskan code sesimpel ini:
