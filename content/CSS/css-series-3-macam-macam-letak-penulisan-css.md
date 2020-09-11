@@ -168,10 +168,12 @@ Kelebihan Inline yakni kita bisa menulisnya langsung di dalam HTML tanpa perlu s
         ini nomor 8
       </a>
     </li>
+    
+    <!-- ada ratusan tag <li> dibawah :) -->
   </ul>
   ```
 
-  Kalo udah liat ini dan disuruh ganti sama atasan, waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
+  Kalo udah liat ini dan disuruh ganti code CSS sama atasan, waaahhh, kelar aja hidup sobat sebagai web developer :rofl:
 
 Jelas kan? Jadi untuk *best practice*-nya sobat bisa menggunakan CSS secara Eksternal. Atau sobat juga bisa gunakan internal untuk code CSS yang hanya dibutuhkan dalam satu file saja, agar tidak memenuhi size yang eksternal. Sebisa mungkin hindari inline agar tidak membuat kesulitan dalam mengubah code-nya.
 
