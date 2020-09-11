@@ -10,9 +10,9 @@ tags:
   - CSS
   - SERIES
 ---
-Hello para calon koders, selamat datang kembali di series CSS ini. Seperti yang mimin pernah janjikan pada seri sebelumnya, mimin akan membahas tentang macam-macam letak kita bisa menuliskan code CSS.
+Hello para calon koders, selamat datang kembali di series CSS ini. Seperti yang mimin pernah janjikan pada seri [sebelumnya](https://www.digitalkode.com/css/css-series-2-text-color-background-color/), mimin akan membahas tentang macam-macam letak kita bisa menuliskan code CSS.
 
-CSS sebetulnya dibagi menjadi tiga cara penulisan, yakni internal, eksternal, dan inline.
+CSS sebetulnya dibagi menjadi tiga cara penulisan, yakni **internal**, **eksternal**, dan **inline**.
 
 ## Internal
 
@@ -41,7 +41,7 @@ button{
 }
 ```
 
-Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam satu *root path* (satu folder) ya dengan css. Kemudian, sobat tambahkan code berikut.
+Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam satu *root path* atau satu folder ya dengan css. Kemudian, sobat tambahkan code berikut.
 
 ```
 <head>
@@ -50,13 +50,13 @@ Sekarang kita buat file HTML dengan nama `view.html`. ingat, kita buat dalam sat
 <button>Click Me!</button>
 ```
 
-Ada tiga atribut dalam tag tersebut, penjelasannya sebagai berikut:
+Ada tiga atribut dalam tag `<link/>` tersebut, penjelasannya sebagai berikut:
 
 * **rel**, menentukan bagaimana relasinya antara file HTML kita dengan file yang akan digunakan. Dalam hal ini, stylesheet berarti kita import stylesheet;
-* **type**, berfungsi untuk memberitahukan bagaimana browser sebaiknya mengenali file yang akan digunakan. dalam kasus CSS, kita bisa menghilangkannya dari tag link karena saat atribut **rel** memiliki value stylesheet, maka tag link akan otomatis menganggap bahwa file tersebut CSS, hingga akhirnya code akan menjadi `<link rel=”stylesheet” href=”css-saya.css”/>`;
+* **type**, berfungsi untuk memberitahukan bagaimana browser sebaiknya mengenali file yang akan digunakan. dalam kasus CSS, kita bisa menghilangkannya dari tag link karena saat atribut **rel** memiliki value stylesheet, maka tag link akan otomatis menganggap bahwa file tersebut CSS, hingga akhirnya code bisa menjadi `<link rel=”stylesheet” href=”css-saya.css”/>`;
 * **href,** berarti link yang digunakan untuk mengambil file CSS yang kita buat.
 
-Maka saat sobat membuka `view.html`, tampilannya pasti masih sama dengan yang kita kerjakan sebelumnya.
+Apabila sudah dibuat, maka saat sobat membuka `view.html`di browser, tampilannya pasti masih sama dengan yang kita kerjakan sebelumnya.
 
 ## Inline
 
