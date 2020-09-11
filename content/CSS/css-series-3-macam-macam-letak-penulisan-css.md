@@ -168,6 +168,8 @@ Kelebihan Inline yakni kita bisa menulisnya langsung di dalam HTML tanpa perlu s
         ini nomor 8
       </a>
     </li>
+    
+    <!-- ada ratusan tag <li> dibawah :) -->
   </ul>
   ```
 
