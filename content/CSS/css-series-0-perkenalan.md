@@ -26,7 +26,7 @@ Oiya, untuk awalan sobat bisa copy seluruh sintaks CSS dan HTML di bawah ini dal
 
 CSS:
 
-```
+```html
 <style>
     button{
         width: 200px; 
@@ -43,7 +43,7 @@ CSS:
 
 HTML:
 
-```
+```html
 <button>Click Me!</button>
 ```
 
