@@ -34,7 +34,7 @@ Sebagai contoh, mimin akan mengganti nilai dalam setiap tag `<li></li>` menjadi 
 
 CSS:
 
-```
+```html
 <style>
   li {
     color: red;
@@ -46,7 +46,7 @@ Dalam kode di atas, **li** adalah apa yang bisa kita panggil dengan selector, se
 
 HTML:
 
-```
+```html
 <ul>
   <li>pertama</li>
   <li>kedua</li>
