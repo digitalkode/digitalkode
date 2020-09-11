@@ -83,7 +83,7 @@ Sebagai awalan, kita bisa bandingkan dulu kelebihan Eksternal daripada Internal.
 
 Namun, Eksternal pun mempunyai kelemahan yang bisa ditangani oleh Internal.
 
-Saat setiap view memiliki sebuah CSS yang tidak digunakan oleh view lain, akhirnya akan banyak code CSS yang tidak terpakai menjadi menumpuk pada file Eksternal tersebut hingga akhirnya membuat load terasa lebih lama. Maka kita bisa menulisnya secara Inline.
+Saat setiap view memiliki sebuah CSS yang tidak digunakan oleh view lain, akhirnya akan banyak code CSS yang tidak terpakai menjadi menumpuk pada file Eksternal tersebut hingga akhirnya membuat size file menjadi lebih besar dan load terasa lebih lama. Maka kita bisa menulisnya secara Inline.
 
 ### Eksternal & Internal VS Inline
 
