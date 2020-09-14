@@ -105,7 +105,7 @@ Srlain cara di atas (menyimpan dari $_POST ke variabel tertentu) sobat juga bisa
 </html>
 ```
 
-Sekarang kita perhatikan kedua contoh diatas. Pada contoh pertama kita buat script proses.php hanya sekedar menampilkan dua bilagan yang diinputkan pada form . selanjutnya kita buat script berikutnya, misalkan masih tettap sama filenya yaitu proses.php tapi digunakan untuk menampilkan hasil penjumlahan dua bilangan yang diiputkan tadi.
+Sekarang kita perhatikan kedua contoh diatas. Pada contoh pertama kita buat script proses.php hanya sekedar menampilkan dua bilangan yang diinputkan pada form . selanjutnya kita buat script berikutnya, misalkan masih tetap sama filenya yaitu proses.php tapi digunakan untuk menampilkan hasil penjumlahan dua bilangan yang diiputkan tadi.
 
 Perhatikan script berikut 
 
@@ -138,9 +138,9 @@ Sobat digitalkode, jika POST request adalah proses merequest data melalui form, 
 
 Terkadang kita jika browsing di internet, kita menemukan URL atau link yang berbentuk http://situs.com/script.php?**a=4&b=1**
 
-Coba sobat perhatikan URL yang saya kasih bold. Bagian tersebut dinakan parameter. Konsep GET Request pada prinsipnya pirip dengan POST. Pada contoh URL diatas maksudnya adalah mensubmit atau mengirim data ke script bernama script.php. dan yang dikirimadalah nilai a=4 dan b=1. Nilai yang dikirim tersebut nantinya akan dijadikan input pada proses yang terjadi di script.php
+Coba sobat perhatikan URL yang saya kasih bold. Bagian tersebut dinakan parameter. Konsep GET Request pada prinsipnya mirip dengan POST. Pada contoh URL diatas maksudnya adalah mensubmit atau mengirim data ke script bernama script.php. dan yang dikirim adalah nilai a=4 dan b=1. Nilai yang dikirim tersebut nantinya akan dijadikan input pada proses yang terjadi di script.php
 
-Sekarang, gimana cara membaca input dari GET request tersebut? caaranya adalah menggunakan $_GET\['nama parameter'];
+Sekarang, bagaimana cara membaca input dari GET request tersebut? caranya adalah menggunakan $_GET\['nama parameter'];
 
 Saya akan berikan contoh untuk menjumlahkan dua bilangan yang diinput melalui GET request.
 
@@ -167,7 +167,7 @@ Saya akan berikan contoh untuk menjumlahkan dua bilangan yang diinput melalui GE
 </html>
 ```
 
-Terus gimana cara menjumlahkan dua bilangan menggunakan script diatas yang menggunakan GET request? caranya cukup mengetikan URL begini :
+Terus bagaimana cara menjumlahkan dua bilangan menggunakan script diatas yang menggunakan GET request? caranya cukup mengetikan URL begini :
 
 http://localhost/proses.php?**bil1**=40&**bil2**=40
 
