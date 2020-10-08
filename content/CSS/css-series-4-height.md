@@ -14,7 +14,7 @@ Halo koders, selamat datang kembali. Setelah mimin membahas tentang letak penuli
 
 ## Height
 
-Height merupakan property yang berfungsi untuk mengatur ketinggian dari suatu element.
+`height` merupakan property yang berfungsi untuk mengatur ketinggian dari suatu element. Umumnya, property inilah yang paling sering digunakan dalam mengatur ketinggian.
 
 ```css
 button{
@@ -24,7 +24,7 @@ button{
 
 ## min-height
 
-Jika sobat ingin set tinggi minimal dari suatu element HTML, maka kita bisa menggunakan property min-height.
+Jika sobat ingin set tinggi minimal dari suatu element HTML, maka kita bisa menggunakan property `min-height`.
 
 ```css
 button{
@@ -39,7 +39,7 @@ ada beberapa hal yang perlu dipahami:
 
 ## max-height
 
-Berlawanan dengan min-height, jika sobat ingin tinggi suatu element HTML tidak melebihi batas yang di tentukan, maka sobat bisa menggunakan max-height.
+Berlawanan dengan `min-height`, jika sobat ingin tinggi suatu element HTML tidak melebihi batas yang di tentukan, maka sobat bisa menggunakan `max-height`.
 
 ```css
 button{
@@ -78,6 +78,6 @@ HTML:
 
 Hasilnya akan terlihat seperti berikut:
 
-![]()
+![click me height button](/images/uploads/screenshot_1.png "click me height button")
 
-Okay, sejauh ini kita sudah belajar bagaimana menambahkan tinggi dari suatu element, selanjutnya kita akan belajar bagaimana menambahkan lebar dari suatu element jadi tetap ikuti tutorial ini.
+Okay, sejauh ini kita sudah belajar bagaimana menambahkan tinggi dari suatu element, selanjutnya kita akan belajar bagaimana cara menambahkan lebar dari suatu element jadi tetap ikuti tutorial ini.
