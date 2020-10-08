@@ -49,10 +49,10 @@ button{
 
 Dalam penggunaannya pun ada beberapa hal yang perlu dipahami:
 
-* Jika sobat menggunakan max-height, maka property height akan diabaikan;
 * Jika content lebih kecil dari max-height, maka property max-height tidak akan bekerja;
-* Jika content lebih besar dari max-height, maka property max-height akan bekerja.;
-* Cara kerja max-height bergantung pada property overflow yang akan kita bahas nanti.
+* Jika content lebih besar dari max-height, maka property max-height akan bekerja;
+* Jika sobat menggunakan max-height, maka property height akan diabaikan;
+* Cara kerja max-height bisa tergantung pada property overflow yang akan kita bahas nanti.
 
 ## Let’s Code
 
