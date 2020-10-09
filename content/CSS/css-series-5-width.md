@@ -5,6 +5,7 @@ authors:
   - Rizal
 draft: false
 date: 2020-10-09T02:05:52.366Z
+thumbnail: /images/uploads/css-series-5.png
 tags:
   - CSS
   - SERIES
