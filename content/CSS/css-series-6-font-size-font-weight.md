@@ -43,7 +43,7 @@ Selain dalam bentuk nama, sobat juga bisa gunakan value dari font-weight dengan 
 
 Namun, untuk menggunakan value angka tersebut, font yang sobat gunakan harus memiliki level ketebalan yang menyesuaikan dengan kodenya. Jadi apabila sobat ingin menggunakan font yang super tebal, sobat harus install dulu font nya. Dan perlu diketahui juga untuk value angka tidak di support di internet explorer, jadi jaga jaga kalau sobat mau bikin web pake pengaturan font angka tapi ternyata klien targetnya pengguna internet explorer, bisa rusak tuh web :cry:.
 
-Contoh penggunaan valuenya bisa sobat tulis seperti ini.
+Contoh penggunaan valuenya bisa sobat tulis seperti ini:
 
 ```css
 button{
