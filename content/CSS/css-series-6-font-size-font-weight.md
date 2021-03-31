@@ -41,7 +41,7 @@ ada beberapa value yang bisa sobat pakai dalam font-weight. Dalam bentuk nama di
 
 Selain dalam bentuk nama, sobat juga bisa gunakan value dari font-weight dengan menggunakan angka yang sudah di set sebagai semacam code untuk value nya si font-weight. Dimulai dari yang terkecil yang paling tipis adalah **1** hingga terbesar yang paling tebal adalah **1000**, namun yang paling umum digunakan biasanya berada diantara kelipatan ratusan seperti **100**, **200**, **300**, dan seterusnya hingga **950** seperti yang terlihat di tabel ini. Dari jarak tersebut, angka **400** sama dengan **normal** dan **700** sama dengan **bold**.
 
-Namun, untuk menggunakan value angka tersebut, font yang sobat gunakan harus memiliki level ketebalan yang menyesuaikan dengan kodenya. Jadi apabila sobat ingin menggunakan font yang super tebal, sobat harus install dulu font nya. Dan perlu diketahui juga untuk value angka tidak di support di internet explorer, jadi jaga jaga kalau sobat mau bikin web pake pengaturan font angka tapi ternyata klien targetnya pengguna internet explorer, bisa rusak tuh web :cry:.
+Namun, untuk menggunakan value angka tersebut, font yang sobat gunakan harus memiliki level ketebalan yang menyesuaikan dengan kodenya. Jadi apabila sobat ingin menggunakan font yang super tebal, sobat harus install dulu font nya. Dan perlu diketahui juga untuk value angka tidak di support di internet explorer, jadi jaga jaga kalau sobat mau bikin web pake pengaturan font angka tapi ternyata klien targetnya pengguna internet explorer, bisa rusak tuh web :sob:.
 
 Contoh penggunaan valuenya bisa sobat tulis seperti ini:
 
