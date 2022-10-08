@@ -2,7 +2,7 @@
 layout: blog
 title: Belajar Golang Yuk
 authors:
-  - Irvan Ahmad P.
+  - Irvan Ahmad P
 draft: false
 date: 2020-08-31T14:11:20.201Z
 thumbnail: /images/uploads/golang-img.png
@@ -59,4 +59,4 @@ Kita juga dapat bergabung dengan komunitas golang seperti [Golang Indonesia](htt
 1. <https://dasarpemrogramangolang.novalagung.com/1-berkenalan-dengan-golang.html>
 2. <https://github.com/rakyll/gowiki/blob/master/GoUsers.md>
 3. <https://github.com/dariubs/GoBooks#books>
-4. <https://medium.com/@IrvanAhmadP/belajar-golang-85c6aca406e>
+4. <https://irvanahmadp.medium.com/belajar-golang-85c6aca406e>
