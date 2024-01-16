@@ -1,26 +1,16 @@
 ---
 title: "Tentang Digitalkode"
-date: 2020-08-10T16:56:20+07:00
+date: 2024-01-16T14:28:05+07:00
 ---
 
-Digitalkode adalah sebuah startup yang bergerak di dunia digital.
+Digitalkode - Realizing Dream in Digital World.
 
-Digitalkode berusaha untuk menciptakan inovasi inovasi baru di abad ke 21.
+# Vision
+To be a leading digital innovator, transforming dreams into reality, and empowering individuals and organizations to thrive in the digital world. 🌐🚀
 
-# VISI
-
-1. Menjadi solusi jasa pembuatan aplikasi, web, dan desain yang terbaik dan terpercaya.
-
-2. Membuat berbagai macam produk digital yang dapat membantu dan mempermudah pekerjaan.
-
-3. Meningkatkan Kaulitas Pendidikan Generasi IT, dan menciptakan generasi generasi IT terbaik.
-
-# MISI
-
-1. Memberikan jasa untuk pembuatan aplikasi web dan desain yang menarik dan mudah digunakan.
-
-2. Membuast produk digital yang bermafaat dan dibuthkan banyak orang.
-
-3. Memberikan layanan dan support yang baik pada jasa dan produk yang diberikan.
-
-4. Memberikan tutorial yang mudah dipahami, mudah dimengerti, dan terstruktur.
+# Mission
+1. **Innovate**: We are committed to building innovative products that push the boundaries of what is possible in the digital realm. 💡🔧
+2. **Educate**: We strive to enhance the quality of human resources through seminars, classes, and tutorials, fostering a culture of continuous learning and growth. 🎓📚
+3. **Empower Businesses**: We aim to assist businesses in their digital transformation journey through our bespoke app solutions, driving efficiency and growth. 🏢💼
+4. **Support Education**: We endeavor to aid schools in harnessing the power of digital tools through our tailored app solutions, enhancing the learning experience. 🏫🎒
+5. **Nurture Startups**: We aspire to partner with clients in building successful startups, providing them with the digital tools and support they need to succeed. 🚀💡
